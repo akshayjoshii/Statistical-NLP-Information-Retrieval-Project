@@ -1,3 +1,6 @@
+__author__ = "Akshay Joshi"
+__email__ = "s8akjosh@stud.uni-saarland.de"
+
 import os
 import string
 import sys
@@ -9,7 +12,6 @@ from nltk.corpus import stopwords
 from bs4 import BeautifulSoup as bs
 
 class Extract:
-
     # Initializing class attributes
     def __init__(self):
         self.stop_words = set(stopwords.words('english'))
@@ -50,7 +52,6 @@ class Extract:
     
 # Driver code
 if __name__ == "__main__":
-        e = Extract()
-
         # Create separate docs by extracting info inside <text> tags from xml
+        e = Extract()
         e.retrieveDocumentEvidences("trec_documents.xml")
