@@ -2,7 +2,6 @@ __author__ = "Akshay Joshi"
 __email__ = "s8akjosh@stud.uni-saarland.de"
 
 import math
-import string
 import sys
 import numpy as np
 
