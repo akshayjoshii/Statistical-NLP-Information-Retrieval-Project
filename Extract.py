@@ -40,13 +40,14 @@ class Extract:
         #for t in tqdm(range(len(tag_contents)), desc = "Document parse progress: "):
         for i, p in enumerate(tag_contents):
             if (i % 2) == 0:
-                f = open(os.path.join(self.path, (tag_contents[i].text + self.extension)), "w+")
+                f = open(os.path.join(self.path, (tag_contents[i].text +self.extension)), "w+")
                 raw_file_content = tag_contents[i+1].text
                 # Pre-processing raw text before tokenizing to preven't corruption/elimination of words such as 'can't' or 'english-spoken'
-                processed_file_content = raw_file_content.translate(self.token_rule)
-                tokens = word_tokenize(processed_file_content)
+                #processed_file_content = raw_file_content.translate(self.token_rule)
+                #tokens = word_tokenize(processed_file_content)
+                tokens = word_tokenize(raw_file_content)
                 tokens_without_sw = [word.lower() for word in tokens if not word in self.stop_words]
-                f.write(" ".join(tokens_without_sw))
+                f.write(" ".join(tokens))
                 f.close
         print("\n[INFO] Document evidence parsing complete")
         print(f"\nDocuments saved in directory: {self.path}")
@@ -65,8 +66,10 @@ class Extract:
         with open(outtxt, "w+") as oup:
             for line in processed_queries:
                 if line.strip():
-                    line = line.translate(self.token_rule)
-                    oup.write(line.lower())
+                    line = word_tokenize(line.lower())
+                    #line = line.translate(self.token_rule)
+                    oup.write(" ".join(line))
+                    oup.write("\n")
         oup.close 
         print("\n[INFO] Parsing Test Questions file complete!")
         print(f"\nTest Questions file saved as: {outtxt}")
