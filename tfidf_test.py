@@ -6,6 +6,18 @@ import numpy as np
 from collections import defaultdict
 from functools import reduce
 
+#path = os.path.join("test")
+#document_filenames = populateDocumentEvidenceList(path)
+#print(document_filenames)
+dictionary = set()
+postings = defaultdict(dict)
+document_frequency = defaultdict(int)
+length = defaultdict(float)
+
+# The list of characters (mostly, punctuation) we want to strip out of
+# terms in the document.
+characters = " .,!#$%^&*();:\n\t\\\"?!{}[]<>``'`"
+
 def populateDocumentEvidenceList(directory):
     doc_dictionary = {}
     for path, dirs, files in os.walk(directory):
@@ -21,27 +33,6 @@ def populateDocumentEvidenceList(directory):
             if file.endswith(".txt"):
                 doc_dictionary[i] = path+'/'+file
     return doc_dictionary
-
-#path = os.path.join("test")
-#document_filenames = populateDocumentEvidenceList(path)
-#print(document_filenames)
-"""
-document_filenames = {0 : "Extracted Docs/ LA010189-0045 .txt",
-                      1 : "Extracted Docs/ LA010189-0054 .txt",
-                      2 : "Extracted Docs/ LA010189-0120 .txt",
-                      3 : "Extracted Docs/ LA010190-0022 .txt"}
-"""
-
-# dictionary: a set to contain all terms (i.e., words) in the document
-# corpus.
-dictionary = set()
-postings = defaultdict(dict)
-document_frequency = defaultdict(int)
-length = defaultdict(float)
-
-# The list of characters (mostly, punctuation) we want to strip out of
-# terms in the document.
-characters = " .,!#$%^&*();:\n\t\\\"?!{}[]<>``'`"
 
 
 def initialize_terms_and_postings(document_filenames):
@@ -88,14 +79,13 @@ def inverse_document_frequency(term, N):
         return 0.0
 
 def intersection(sets):
-    return reduce(set.intersection, [s for s in sets])
-
+    return reduce(set.union, [s for s in sets])
 
 def similarity(query,id, N):
     similarity = 0.0
     for term in query:
         if term in dictionary:
-            similarity += inverse_document_frequency(term, N) #*imp(term,id,N)
+            similarity += inverse_document_frequency(term, N) * imp(term,id, N)
     similarity = similarity / length[id]
     return similarity
 
@@ -107,7 +97,7 @@ def do_search(document_filenames, N):
         sys.exit()
     relevant_document_ids = intersection([set(postings[term].keys()) for term in query])
     scores = sorted([(id,similarity(query, id, N)) for id in relevant_document_ids], 
-                    key=lambda x: x[1], reverse=True)[:1000]
+                    key=lambda x: x[1], reverse=True)[:50]
     print("Score: filename")
     for (id, score) in scores:
         print(str(score)+": "+document_filenames[id])
@@ -115,11 +105,11 @@ def do_search(document_filenames, N):
 
 if __name__ == "__main__":
     path = "Extracted Docs"
+    print("\n[INFO] Please be patient, building a massive postings list!")
     document_filenames = populateDocumentEvidenceList(path)
     N = len(document_filenames)
     initialize_terms_and_postings(document_filenames)
     initialize_document_frequencies()
     initialize_lengths(document_filenames)
-    print("\n[INFO] Please be patient, building a massive postings list!")
     while True:
         do_search(document_filenames, N)
