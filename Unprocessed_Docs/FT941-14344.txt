@@ -1,0 +1,18 @@
+ -----------------------------------------------------------------------
+MOST PROFITABLE COMPANIES -----------------------------------------------------------------------                                UK500   Company                       Rank     ROCE ----------------------------------------------------------------------- 1 Emap                           187    317.7 2 Misys                          347    293.5 3 Sage Group                     498    198.4 4 Anglian Group                  277    190.9 5 Park Food Group                434    181.9 6 ACT Group                      255    129.0 7 Danka Business Systems         231     83.0 8 Carpetright                    393     81.9 9 Rentokil Group                  71     80.3
+10 Betterware                     335     78.3
+11 Macro 4                        395     76.5
+12 Micro Focus Group              305     72.0
+13 Transfer Technology Group      490     69.7
+14 Vodafone                        29     69.3
+15 Brown (David) Group            445     65.3
+16 Medeva                         280     65.1
+17 Blick                          454     64.8
+18 WPP Group                      199     64.5
+19 Trinity                        459     58.9
+20 Cowie (T)                     243     55.4
+21 Huntleigh Technology           427     55.3
+22 Charter                        211     54.5
+23 Claremont Garments (Hdngs)     417     54.2
+24 Central Independent TV         197     54.1
+25 Northern Foods                 105     51.4 -----------------------------------------------------------------------

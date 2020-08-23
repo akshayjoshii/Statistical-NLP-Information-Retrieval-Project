@@ -1,1 +1,1 @@
-1 video top gun 2 actor harrison ford 3 actress kathleen turner 4 filmmaker steven spielberg 5 specialinterest program dorf on golf 6 special achievement john power american video assns founder source american video assn spirit awards
+1 video top gun 2 actor harrison ford 3 actress kathleen turner 4 filmmaker steven spielberg 5 special-interest program dorf on golf 6 special achievement john power american video assn s founder source american video assn spirit awards

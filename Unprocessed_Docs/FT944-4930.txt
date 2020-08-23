@@ -1,0 +1,7 @@
+
+Matsushita, Japan's largest maker of consumer electronic products, yesterday
+became the fourth Japanese company to adopt International Business Machines'
+microprocessor technology for multimedia products.
+Matsushita has signed a letter of intent with the US computer group jointly
+to develop multimedia products using IBM's PowerPC chip, a fast 64-bit
+microprocessor for personal computers.

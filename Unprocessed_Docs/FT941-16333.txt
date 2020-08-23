@@ -1,0 +1,54 @@
+
+Star Trek has a lot to answer for. The popular science fiction television
+and film series, first shown in 1966, set high expectations for computers
+that could be controlled by talking to them - and having them talk back.
+Although it has taken a quarter of a century, science fiction is now rapidly
+becoming reality. Within two years, most personal computers will come with
+speakers, a microphone, built-in sound processing, CD-Rom players and
+operating system-level sound software.
+Until recently, however, there have been few business applications available
+to take advantage of these sonic PC appendages. Two promising areas that are
+emerging are 'command and control' and voice annotation. Both offer improved
+efficiency over keyboards and computer mice and could help to make PCs much
+easier to use.
+Voice 'command and control' enables PC users to speak commands to the
+computer rather than typing them. The advantages are clear, but the drawback
+of this technology is that it requires the user to spend a long time
+training the PC sound system to recognise his or her voice.
+Even when the system has been trained, it can often be disrupted by
+background noise. If someone is using the photocopier, the fax machine is
+beeping or the air-conditioning has just been switched on, the PC may get
+confused.
+This problem can be minimised by wearing a telephone operator-style headset
+that includes headphones to listen to the sound system and a wrap- around
+unidirectional microphone that sits only inches from your lips.
+Recognition under these circumstances is actually quite good. You will,
+however, have to get used to the idea of being tethered to your PC. Get up
+quickly and you find your headset, microphone - and anything else you may be
+wearing from the neck up - being dragged off your face, not to mention the
+complications of confusing a telephone headset and the one being used for
+voice recognition.
+The second big area where voice is expected to make inroads is that of
+document voice annotation. This is where users can add voice 'notes' to
+computer documents.
+The idea is that voice annotation of documents provides a quick and easy way
+of making comments about the content of the documents - without the comments
+having to become part of the textual or graphic content of the document.
+Thus changes can be requested to a document without users having to type out
+those changes.
+Voice annotation is expected to be particularly useful in situations where a
+number of people might be collaborating on preparation of a single document.
+By using voice annotation as the document is passed around the workgroup
+over an electronic mail system, the project co-ordinator can make all the
+changes at once without having to worry about using specialised 'versioning'
+software to keep track of them.
+Voice annotation could also be useful in making confidential comments about
+financial figures in spreadsheets or making comments on marketing
+presentations before they are completed. Any situation where, in the past,
+you might have dictated a note to be typed up and attached to a document is
+a candidate for voice annotation.
+If speech-embedding technology continues to use better compression (so that
+messages do not take up as much disc space or hog the network) and voice
+command systems can further improve on their accuracy of recognition, while
+cutting down on the 'training' time of the system, then PC users may soon
+have the power of a starship commander.

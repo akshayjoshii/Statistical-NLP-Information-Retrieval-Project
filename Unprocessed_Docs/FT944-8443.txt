@@ -1,0 +1,143 @@
+
+Two new systems for giving unit trusts star ratings are being introduced to
+Britain amid a flurry of criticism. London Business School professor of
+finance Elroy Dimson, and Peter Jeffreys, managing director of the widely
+respected analyst Fund Research, are both vehement critics of the new
+ratings, which are being published by measurement services Micropal and
+Morningstar.
+They are worried that the ratings will be treated as 'best buy' labels and
+could also be used in advertisements to mislead the public. Dimson says:
+'There is no question of there being high levels of predictability in these
+rankings.'
+The star ratings are based on risk-adjusted performance figures. These are a
+more sophisticated version of the conventional performance tables, which
+measure different trusts' total return over various periods of time.
+The conventional tables take no account of the fact that some trusts take
+greater risks than others and that their progress is, correspondingly, more
+volatile. This volatility can be measured by statistical yardsticks such as
+the standard deviation.
+Both Micropal and Morningstar have their own methods of adjusting a fund's
+performance for its risk. In very broad terms, such adjustments penalise a
+very risky fund and reward one that is very steady.
+The stars are intended to encapsulate the net risk/reward relationship.
+Funds with the highest overall score get five stars; those with the lowest,
+one. But statistics relating to past performance are of little use in
+predicting how funds will do in future.
+Dimson argues that risk-adjusted performance figures have no more predictive
+power than conventional performance figures. Advertisements from unit trust
+groups already use conventional performance figures as part of their sales
+pitch.
+The attacks on the star ratings took place at a recent FT Roundtable. Others
+taking part were Chris Poll and Keith Sheffield, who run UK statistical
+services Micropal and HSW respectively; James Coursey, who is UK editor of
+Morningstar; and John Cuthbert, a freelance fund analyst. The Roundtable was
+chaired by Barry Riley, investment editor of the FT. Edited extracts of the
+discussion appear below.
+POLL: The flaw in conventional five-year performance figures is that they
+have only two common factors - what the price was five years ago and what it
+is today, with nothing about what went on in between.
+They do not give you the basis for any sort of qualitative evaluation
+whatsoever. But people are using these figures to draw conclusions and make
+recommendations.
+At the end of the day, what do we all want? We want more people investing in
+stock markets, either directly or indirectly through funds. And we want to
+educate the public.
+DIMSON: I don't know who 'we' is.
+POLL: The unit trust industry.
+DIMSON: But that is a million miles away from where the industry is. What
+the industry does is to make promises of performance in which past
+performance is extrapolated through to the future.
+They build in part on data drawn from your services, making sometimes
+implicit and sometimes explicit claims of the most outrageous nature about
+the predictability of their returns.
+They would be outrageous whether they take a price five years ago and a
+price today or whether they take the period in between.
+They would be outrageous whether they look at returns embracing data in
+between or embracing volatility.
+POLL: With commercialism, you're never going to stop people making claims.
+SHEFFIELD: I'm not convinced that historical performance is even a relevant
+starting point to future performance - partly because it fails to take
+account of the market conditions under which we achieved that performance.
+Historical performance tables have been useful in exposing the public to the
+risks: the fact that some funds underperform others dramatically over
+certain periods of time.
+But you can't form total judgments from the collation of numbers. You need a
+mixture of numbers and qualitative appraisal.
+CUTHBERT: I find this argument bizarre. You are saying that you have this
+historical world and you can't do anything with it in future. Doesn't this
+imply that you can't pick good managers - or even that there aren't good
+managers?
+DIMSON: There is no dispute that there is a slight persistence in
+performance at the bottom end: poor performers have slightly more than their
+fair share of being poor performers in the following period. So, there is
+something to be learnt from looking at the data. And it is appropriate for
+individuals to know what's been happening to their unit trust.
+But those are different functions from spotting a money manager who's going
+to be better than all other money managers.
+CUTHBERT: I think we may be missing something. We have a problem relating
+past performance to future performance. But that does not necessarily mean
+that we have a problem measuring managerial ability.
+And if we can measure managerial ability - even though that process does not
+have predictive content - it may still be rational to pick managers who have
+shown more managerial ability than others in the past.
+SHEFFIELD: I agree with some of your analysis, John. But I feel the
+conclusions take us into dangerous territory. The danger is that a 'good'
+fund manager will be expected to perform well in future.
+RILEY: How should star ratings be used?
+POLL: What we're trying to say by introducing star ratings is ' . . . in
+addition to performance, is there another measure that will give an
+indication of how that fund performs?' The star rating system says ' . . .
+if you've got five, it's either an excessive performance and excessive risk
+or medium performance with medium risk'.
+We also spell out what the volatility is, separately. The star rating goes
+out as part of a sheet on every fund which gives you a variety of
+quantitative information. But the problem is that if you just put the basic
+components of the star rating system down - the average investor won't
+understand it.
+We are not trying to say that the star rating system has predictive ability;
+we are just trying to identify the characteristics of different funds.
+COURSEY: It is important to make sure the star rating appears in context. We
+have a statement that the star rating is an introduction, not a conclusion.
+If you had a portfolio consisting only of funds with five stars and sold
+them when the ratings went down to four stars, your portfolio would not
+perform well.
+SHEFFIELD: Do you put your customers (the unit trust management groups)
+under any contractual obligation as to how they use your star ratings?
+Because the advertisements will appear - as you know - saying 'Morningstar
+five-star rating, Micropal five-star rating'. Do you explain that the star
+ratings really must be related to other information?
+POLL: We have a 20-page user guide which spells this out. Whether this is
+going to be effective is a different question. Any star system is open to
+abuse. Anything's open to abuse.
+SHEFFIELD: Whatever you say here, the star ratings will actually be used if
+you publish them.
+POLL: But there is so much information published at the moment that is more
+misleading - five-year performance tables and so on.
+DIMSON: I feel you are all conniving. You are on your own side and so you
+are on your customers' side.
+There is no question of there being high levels of predictability in these
+rankings. You need something like 25 years' data to conclude that someone
+has superior capabilities which persist over time.
+One can't say that star ratings based on three-year or five-year performance
+are not helpful - people must have information that tells them what has gone
+on in the past. But the implication that these are good-quality funds to
+invest in for the future is overstated.
+POLL: I'm not saying it is predictive, I'm saying it is informative.
+RILEY: So, should we give up and say there is no connection between the past
+and the future except for the dud funds?
+POLL: What we are saying is that there is a balance between risk and reward
+and there is a relationship. The star is not doing any more than
+encapsulating that relationship.
+DIMSON: I've heard the Consumers' Association explain the same thing. They
+say: 'You look down this column and you can see how long the wash cycle is,
+this one and the number of choices of different temperatures. You don't have
+to look for the best buy'. But, in fact, they labelled it the 'Best Buy'.
+You make it clear your stars aren't the 'Best Buy' . . . but it's terribly
+tempting.
+JEFFREYS: You would not dream of producing a star rating system based just
+on cumulative relative performance, and risk-adjusted returns are no more
+predictive than those. That's the killer.
+DIMSON: All my Peps are in the Gartmore index fund. I put my money where my
+mouth is.
+This article is part of an edited transcript of a discussion which took
+place at the Financial Times on October 12.

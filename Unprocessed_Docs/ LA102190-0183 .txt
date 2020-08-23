@@ -1,0 +1,105 @@
+
+Where: Simi Valley Freeway eastbound; College View Avenue to Alamos Canyon bridge 
+Problem: Lane 2 closed 
+Why: Shoulder repair 
+When: Monday-Friday, 9 a.m.-3 p.m. 
+Where: Pacific Coast Highway northbound; Vineyard Avenue to Ventura Freeway 
+Problem: Lane 2 closed 
+Why: Landscaping 
+When: Monday, 9 a.m.-noon 
+Where: Ventura Freeway northbound; Central Avenue off-ramp 
+Problem: Ramp closed 
+Why: Crack seal 
+When: Tuesday, 9 a.m.-3 p.m. 
+Where: Ventura Freeway northbound; Las Posas Road on-ramp 
+Problem: Ramp closed 
+Why: Crack seal 
+When: Wednesday, 9 a.m.-noon 
+Where: Ojai Freeway southbound; Casitas Vista Road to Shell Road 
+Problem: Lane closures 
+Why: Patching 
+When: Saturday, 7:30 a.m.-2 p.m. 
+Where: California 118; Rose Avenue to Balcom Canyon Road 
+Problem: One-way traffic control 
+Why: Shoulder work 
+When: Monday-Friday, 9 a.m.-3 p.m. 
+Where: California 118; Rose Avenue to Mesa School Road 
+Problem: One-way traffic control; possible 30-minute delays 
+Why: Asphalt paving 
+When: Sunday-Thursday, 9 p.m.-6 a.m. 
+CITY STREETS 
+Camarillo 
+Where: Ponderosa Drive west of Brently Street to Las Posas Road 
+Problem: Possible delays 
+Why: Construction 
+When: Continuing 
+Where: Santa Rosa Road westbound between Upland Road and Oak Canyon Road 
+Problem: Caution needed 
+Why: Right shoulder work 
+When: Continuing 
+Where: Santa Rosa Road between Ventura Freeway and Adolfo Road 
+Problem: Periodic lane closures 
+Why: Construction 
+When: Continuing 
+Where: Daily Drive between Murray Avenue and Mobil Avenue 
+Problem: Possible delays 
+Why: Water and sewer line installation 
+When: 8:30 a.m.-3 p.m., until further notice 
+Oxnard 
+Where: Rose Avenue from south of Channel Islands Boulevard to Pleasant Valley Road 
+Problem: Traffic restricted 
+Why: Sewer line work 
+When: Continuing 
+Where: Pleasant Valley Road and Terrace Avenue 
+Problem: Traffic restricted 
+Why: Sewer line work 
+When: Continuing 
+Where: Hueneme Road at Saviers Road 
+Problem: Traffic restricted; flagger will control 
+Why: Storm drain installation 
+When: Continuing 
+Where: F Street from Wooley Road to Doris Avenue 
+Problem: Parking restrictions 
+Why: Road repairs and tree removals 
+When: Continuing 
+Where: Patricia Street from Gonzales Road to Carmen Way 
+Problem: Parking restrictions 
+Why: Road repairs and tree removals 
+When: Continuing 
+Where: Santa Lucia Avenue from Rose Avenue east to the end 
+Problem: Parking restrictions 
+Why: Road repairs and tree removals 
+When: Continuing 
+Where: Third Street between H and C streets 
+Problem: Parking restrictions 
+Why: Road repairs and tree removals 
+When: Continuing 
+Where: Victoria Avenue at Channel Islands Blvd. 
+Problem: Lane closures 
+Why: Construction 
+When: Continuing 
+Where: Sturgis Road; Rice Avenue to Del Norte Blvd. 
+Problem: Road closed 
+Why: Construction 
+When: Continuing 
+Where: C Street between Elm Street and Kamala Street 
+Problem: Lane closures, parking restrictions 
+Why: Construction 
+When: Continuing 
+Where: Ventura Road north of Vineyard Avenue 
+Problem: Congested traffic 
+Why: Temporary truck crossing 
+When: Continuing 
+Where: Gisler Avenue 
+Problem: Parking restrictions 
+Why: Water line construction 
+When: Continuing 
+Ventura 
+Where: Dean Drive; Mills Road to Estates Avenue 
+Problem: Possible delays 
+Why: Construction 
+When: Through November 
+Where: Telephone Road from Scandia Avenue to Wells Road 
+Problem: Possible delays 
+Why: Construction 
+When: Through Oct. 26 

@@ -1,3 +1,0 @@
-beautifulsoup4
-nltk
-rank-bm25

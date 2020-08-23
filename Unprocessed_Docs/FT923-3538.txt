@@ -1,0 +1,13 @@
+
+Photography buffs can now buy a camera that senses what part of a picture
+the photographer's eye is focused on, writes Michael Kenward.
+The new Canon EOS-5 incorporates an intelligent automatic focusing system
+which homes in on the area of the image where the eye is looking. A small
+infra-red light-emitting diode in the single-lens 35mm reflex camera
+illuminates the eye as it looks into the viewfinder.
+Sensors in the camera analyse the pattern of reflected light and discover
+where the eye is looking. The camera's electronics then pick out which of
+five focusing points is nearest to where the eye is directed, and the lens
+automatically focuses on that point.
+The EOS-5 sells for Pounds 499.99 and goes on sale in the UK next month.
+Canon: UK, 081 773 3173.

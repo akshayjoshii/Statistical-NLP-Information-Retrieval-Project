@@ -1,0 +1,92 @@
+
+ONLY one thing stands between the average person and their computer: a
+keyboard. Although most people feel happiest communicating with each other
+through speech, voice interfaces for computers are viewed as a technology
+very much for the future.
+The computer industry has grappled with this dilemma for at least 20 years.
+Periodically, computers which are designed to be controlled with digitised
+voice commands are designed and sold to a small number of users. And the
+most successful use of voice in computing to date has been found in
+specially-built military systems, where voice is used to control aircraft
+and radar equipment, and in speech synthesis systems for the disabled.
+In business, voice technology is already being widely used for
+telephone-based services such as voice messaging. Retailers can replace
+human telephone operators with a voice messaging system, then accept orders
+placed from customers who key in relevant numbers on tone dialling
+telephones. Hospitals and other commercial organisations are using internal
+telephone exchanges to manage this type of voice messaging application. Text
+files, such as railway timetables and stock market reports, can be digitised
+and broadcast over telephone and computer networks.
+Small businesses and private homes also benefit from new digital exchanges
+and voice/data networks now being installed by British Telecom across the
+UK. The fact that most exchanges can store digitised voice locally on
+computer disks means that BT can try out new services such as Call Minder.
+This tells incoming callers if the number they want is busy, then invites
+them to leave a voice message.
+Other applications for voice in business have always been limited by the
+cost of computer hardware. Storing digitised voice is a resource-hungry
+business, with one minute of uncompressed speech taking up one megabit of
+disk storage.
+Another problem is processing speed. If a computer is to recognise the words
+being spoken to it, it must have some way of checking spoken words against a
+known vocabulary. Such a vocabulary swallows up disk space, and the act of
+matching word to voice dictionary requires a fast computer processor.
+But the fact that the cost of PC and Unix hardware has fallen so
+dramatically over the past year or two is bringing new voice related
+applications onto the desktop. An example of this new breed of
+voice-activated application is Shakespeare Speechwriter, a word processor
+and document handler that can be controlled wholly or partially through
+voice commands.
+Speechwriter allows users to dictate documents to their PC, which then
+displays words on-screen almost as quickly as they are spoken. Software
+converts spoken words into digitised data, which can be stored on the PC's
+hard disk. Shakespeare expects that key users of the new system will be
+middle and senior managers, who can create documents without using the
+keyboard, and sales order processing departments which normally type or
+write down incoming telephone enquiries.
+Shakespeare will sell Speechwriter as an all-in-one 'voice processor,' which
+will include a beefed-up Compaq 80486 PC and software, for around Pounds
+5,000.
+Although there will be more applications of this type on offer in the
+future, most software for the PC that uses voice is still fairly limited.
+The most it can normally do is to accept voice commands to open or close
+windows on the screen, or to record and play short voice annotations.
+Software packages written for Apple's System 7 operating system or for
+Microsoft Windows 3.1, which now includes voice capabilities, let users with
+a suitably equipped PC record short messages. The message can be included
+within a word processing or electronic mail document, where it is shown as a
+special icon.
+When the document is read by somebody else, they can click on the sound icon
+and hear the message. This kind of voice annotation is particularly useful
+when users want to be more expressive in the message they are sending, or
+wish to draw attention to a particular part of the document.
+The fact that Microsoft has included support for voice in Windows means that
+there will soon be a critical mass of users able to make the most of voice
+in everyday business applications. Another factor will be the increasing
+trend for PC and workstation hardware manufacturers to build voice
+capability into their products.
+JUST THE BEGINNING
+One of these manufacturers is Compaq, which recently said that it would
+include 'business audio' as a standard feature in its middle and top end
+Deskpro products. Deskpro PCs now include a sound chip and a microphone,
+allowing users to both record and play back digitised voice. But as Compaq's
+desktop product manager, Sue Forkin, explains, this is just the beginning
+for multimedia in PCs. The way in which voice is used so far in computing is
+still fairly rudimentary and artificial. In the future, voice will be much
+more useful - particularly in security systems.
+Along with multimedia, security is one of today's hot topics in voice
+technology. The fact is that a voice print is as individual to one person as
+a fingerprint. It means that voice will be extremely useful in the control
+of everyday items, such as automated teller machines (ATMs), as well as
+office systems like fax machines. Instead of using complex commands and
+remote controls, customers will control such systems simply by talking to
+them.
+But the key benefits of voice interfaces of the future will be freedom for
+users, who will be able to operate computers 'hands-free'; and the removal
+of the keyboard barrier for IT-shy managers. Bearing in mind the fact that
+people type at rates from a slow 25 words per minute (wpm), but speak at
+around 200 wpm, speech input can also bring productivity benefits all round.
+'The fact is that the keyboard has been a limiting feature in computing for
+far too long,' concludes Mike Patrick, of Digital Equipment UK. 'Voice
+interfaces have a great deal of potential, because voice is the key method
+of communication for most people.'

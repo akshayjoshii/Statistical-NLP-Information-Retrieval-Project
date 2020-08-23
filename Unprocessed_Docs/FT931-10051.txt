@@ -1,0 +1,525 @@
+ -----------------------------------------
+A -----------------------------------------
+A/S D/S Svendborg                     173
+ABB Asea Brown Boveri                  40
+Abbey National                         66
+ABN Amro Bank                          55
+Accor                                 181
+Aegon                                 117
+AGA                                   203
+AGF                                   110
+AGIV                                  402
+Aguas de Barcelona                    448
+Ahold                                 189
+Akzo                                  124
+Alcatel Alsthom                        17
+Alleanza                              133
+Allianz Holding                         7
+Allianz Lebensversicherungs           120
+Allied Colloids Group                 447
+Allied Irish Banks                    244
+Allied-Lyons                           46
+Almanij                               333
+Altana                                353
+Alusuisse-Lonza Holding               350
+AMB Aachener & Muenchener Beteil      201
+Anglian Water                         208
+Argos                                 344
+Argyll Group                           73
+Arjo Wiggins Appleton                 202
+Asda Group                            337
+Asko Deutsche Kaufhaus                372
+Associated British Foods              148
+Associated British Ports              424
+Astra                                  32
+Atlas Copco                           292
+Audiofina                             484
+Autopistas                            270
+AVA                                   364
+Axa                                    95 -----------------------------------------
+B -----------------------------------------
+BAA                                    74
+Baden-Wuerttembergische Bank          330
+Badenwerk                             275
+Baloise Holding                       322
+Banca Commerciale Italiana            250
+Banca Popolare di Bergamo CV        444
+Bancaire (Compagnie)                  281
+Banco Ambrosiano Veneto               348
+Banco Bilbao Vizcaya                   98
+Banco Central Hispanoamericano         92
+Banco Comercial Portugues             314
+Banco de Santander                    125
+Banco Exterior                        139
+Banco Lariano                         481
+Banco Popular Espanol                 183
+Banco Totta & Accores                 499
+Banesto Group                         243
+Bank of Ireland                       368
+Bank of Scotland                      205
+Bankinter                             418
+Banque Bruxelles Lambert              199
+Barclays                               44
+BASF                                   56
+Bass                                   57
+BAT Industries                          9
+Bayer                                  34
+Bayerische Hypo. & Wechsel Bk          88
+Bayerische Motoren Werke               86
+Bayerische Vereinsbank                 90
+Beiersdorf                            240
+Bekaert                               435
+Berendsen (Sophus)                    339
+Bergesen dy Group                   500
+Berliner Bank                         290
+Berliner Kraft und Licht              422
+BET                                   271
+BHF Bank                              255
+BIC                                   363
+BICC                                  295
+Bilfinger & Berger                    267
+Blenheim Group                        469
+Blue Circle Industries                287
+BOC Group                              80
+Bols                                  482
+Bon Marche                            378
+Bongrain                              346
+Booker                                327
+Boots Company                          53
+Bouygues                              237
+Bowater Industries                    157
+BPB Industries                        335
+Britannic Assurance                   396
+British Aerospace                     464
+British Airways                       126
+British Gas                            14
+British Petroleum                      12
+British Steel                         229
+British Vita                          446
+BSN Groupe                             30
+BT                                      3
+BTR                                    21
+Buhrmann-Tetterode                    487
+Burmah Castrol                        224
+Burton Group                          496 -----------------------------------------
+C -----------------------------------------
+CGIP                              374
+Cable & Wireless                       39
+Cadbury Schweppes                      82
+Canal +                               102
+Cap Gemini Sogeti                     286
+Carlsberg                             158
+Carlton Commu nications               209
+CarnaudMetalbox                       154
+Carrefour                              81
+Casino                                341
+Castorama Dubois                      407
+Centros Comerciales Pryca             191
+CEP Communications                    492
+Cetelem                               277
+Chargeurs                             262
+Charter Consolidated                  405
+Christian Dior                        257
+Ciba-Geigy                             24
+Cimenteries CBR                       361
+Clarins                               376
+Club Mediterranee                     473
+Coats Viyella                         242
+Cobepa                                342
+Codan Group                           415
+Colas                                 468
+Commercial Union                      115
+Commerzbank                            99
+Compania Espanola de Pet.             214
+Comptoirs Modernes                    400
+Continental                           331
+Cookson Group                         371
+Courtaulds                            156
+Courtaulds Textiles                   467
+Credit Comm de France                 207
+Credit Foncier de France              273
+Credit Local de France                226
+Credit National Group                 412
+Creditanstalt-Bankverein              260
+Credito Italiano                      261
+CRH                                   392
+CS Holding                             68 -----------------------------------------
+D -----------------------------------------
+D/S af 1912                           171
+Daily Mail and General Trust          373
+Daimler-Benz                           13
+Dalgety                               284
+Danisco                               345
+DBV                                   450
+De La Rue                             217
+Degussa                               309
+Delhaize                              176
+Delta                                 413
+Den Danske Bank                       204
+Deutsche Bank                          10
+Deutsche Lufthansa                    251
+Deutsche Pfandbrief-und HypoBanK      411
+Deutsche SB-Kauf                      219
+Dixons Group                          313
+Docks de France                       430
+Douglas Holdings                      453
+Dresdner Bank                          49
+DSM                                   218
+Dunhill Holdings                      347 -----------------------------------------
+E -----------------------------------------
+East Midlands Electricity             316
+Eastern Electricity                   279
+Electrabel                             50
+Electrafina                           236
+Electrocomponents                     393
+Electrolux                            195
+Electrowatt                           326
+Elf Aquitaine                          18
+Elf Gabon                             458
+Elf Sanofi                            112
+Elsevier                              100
+Emap                                  455
+Ems-Chemie                            445
+Endesa                                 64
+English China Clays                   235
+Enterprise Oil                        147
+Ericsson LM                           103
+Eridania Beghin-Say                   170
+Euro Disney                           184
+Eurotunnel Group                      123
+EVN                                   495 -----------------------------------------
+F -----------------------------------------
+Fecsa                                 351
+Ferruzzi Finanziaria                  389
+Fiat                                   94
+Finanziaria Agroindustriale           437
+First Leisure Corporation             485
+Fisons                                215
+Flughafen Wien                        432
+Fomento de Construcciones             440
+Forte                                 248
+Fortis                                104
+Fougerolle                            427
+Freia Marabou                         317
+Fromageries Bel                       406 -----------------------------------------
+G -----------------------------------------
+Gambro                                375
+GAN                                   162
+Gas Natural                           200
+Gehe                                  328
+Gemina                                398
+General Accident                      119
+General Electric Company               33
+Generale Bank                         140
+Generale des Eaux                      42
+Generali (Assicurazioni)               23
+GIB Group                             300
+Gist-Brocades                         498
+GKN                                   274
+Glaxo Holdings                          2
+Glynwed International                 472
+Goldschmidt                           471
+Granada Group                         247
+Grand Metropolitan                     27
+Great Universal Stores                 71
+Greenalls Group                       420
+Groupe Andre                          404
+Groupe Bruxelles Lambert              249
+Guardian Royal Exchange               206
+Guinness                               15 -----------------------------------------
+H -----------------------------------------
+Hafslund Nycomed                      194
+Hanson                                 16
+Hapag Lloyd                           497
+Harrisons & Crosfield                 291
+Havas (Agence)                        128
+Hays                                  334
+Heidelberger Zement                   269
+Heineken                              109
+Helvetia Schweiz. Versicherung        428
+Hepworth                              486
+HEW                                   359
+Hillsdown Holdings                    403
+Hochtief                              150
+Hoechst                                45
+Hoesch                                377
+Holderbank Management                 241
+Holzmann (Philipp)                    283
+HSBC Holdings                          19 -----------------------------------------
+I -----------------------------------------
+Iberdrola I                            91
+Iceland Frozen Foods Hldgs            483
+IFIL                                  457
+IFINT                                 272
+IKB Deutsche Industriebank            336
+Imetal                                480
+IMI                                   325
+Imperial Chemical Industries           28
+Incentive                             268
+Inchcape                              111
+Industrivarden                        477
+Institut Merieux                      253
+Internationale Nederlanden Group       60
+Investor                              196
+Irish Life                            431
+Isar Amperwerke                       177
+Italgas                               360 -----------------------------------------
+J -----------------------------------------
+Johnson Matthey                       298 -----------------------------------------
+K -----------------------------------------
+Karstadt                              172
+Kaufhof                               198
+Kingfisher                            106
+KLM                                   441
+KNP                                   384
+Korsnas                               493
+Kredietbank                           193
+Kvaerner                              395
+Kwik Save Group                       266
+Kymmene                               381 -----------------------------------------
+L -----------------------------------------
+L'Air Liquide                          52
+L'Oreal                                36
+Ladbroke Group                        151
+Lafarge Coppee                        153
+Lahmeyer                              370
+Land Securities                       136
+Laporte                               306
+Lasmo                                 221
+Lauritzen                             340
+Legal & General Group                 167
+Legrand                               276
+Leu Holding                           419
+Linde                                 144
+Lloyds Abbey Life                     114
+Lloyds Bank                            43
+London Electricity                    304
+Lonrho                                478
+Lucas Industries                      385
+LVMH                                   31
+Lyonnaise des Eaux-Dumez               89 -----------------------------------------
+M -----------------------------------------
+MAI                                   491
+Man                                   232
+Mannesmann                             96
+Manweb                                433
+Marks and Spencer                      22
+Matra                                 452
+MB-Caradon Group                      238
+Mediobanca                            186
+MEPC                                  299
+Mercury Asset Management              421
+Metallgesellschaft                    246
+MFI Furniture Group                   362
+Michelin                              107
+Midlands Electricity                  308
+Minorco                               252
+Montedison                            234
+Morgan Crucible                       383
+Morrison (Wm) Supermarkets            302
+Moulinex                              423
+Muenchener Ruckversicherungs           37 -----------------------------------------
+N -----------------------------------------
+National Power                         77
+National Westminster Bank              41
+Navigation Mixte                      230
+Nestle                                  5
+NFC                                   188
+Nobel Industries                      426
+Norsk Hydro                            93
+North West Water                      174
+Northern Electric                     438
+Northern Foods                        179
+Norweb                                338
+Novo Nordisk                          165
+Nurnberger Beteiligung                451
+Nutricia                              474 -----------------------------------------
+O -----------------------------------------
+OeMV                                  280
+Orkla                                 414 -----------------------------------------
+P -----------------------------------------
+P & O Steam Navigation                127
+Pargesa Holding                       358
+Paribas                                78
+Pearson                               132
+Pechiney International                152
+Pentland Group                        454
+Pernod Ricard                         105
+Petrofina                              70
+Peugeot                                84
+Philips                               101
+Pilkington                            357
+Pinault                               305
+Pirelli Internationale                297
+Pirelli Spa                           356
+Poliet                                365
+Powerfin                              264
+Powergen                              121
+Preussag                              146
+Primagaz                              462
+Printemps (Au)                        394
+Procordia                              67
+Promodes                              239
+Prudential Corporation                 51
+PWA                                   490 -----------------------------------------
+R -----------------------------------------
+Racal Electronics                     289
+Rank Organisation                     163
+Ranks Hovis McDougall                 410
+RAS                                   282
+Reckitt & Colman                      122
+Redland                               166
+Redoute (La)                          307
+Reed International                     83
+Remy Cointreau                        408
+Rentokil Group                        168
+Repola                                387
+Repsol                                 72
+Reuters Holdings                       48
+Rheinelektra                          288
+Richemont (Compagnie Financiere)       97
+RMC Group                             318
+Roche Holding                           6
+Rodamco                               130
+Rolls-Royce                           210
+Rothmans International                 76
+Royal Bank of Scotland Group          216
+Royal Dutch/Shell                       1
+Royal Insurance Holdings              303
+Royale Belge                          233
+RTZ Corporation                        38
+Rugby Group                           388
+RWE                                    58 -----------------------------------------
+S -----------------------------------------
+Safra Republic Holdings               401
+Saga Petroleum                        332
+SAI                                   417
+Sainsbury J                            26
+Saint Louis Group                     324
+Saint-Gobain                           61
+Salvesen (Christian)                  310
+Sandoz                                 20
+Sandvik                               141
+Schering                              155
+Schmalbach-Lubeca                     476
+Schneider (Groupe)                    180
+Schroders                             329
+Scottish & Newcastle                  160
+Scottish Hydro-Electric               258
+Scottish Power                        182
+Sears                                 231
+SEB                                   352
+Securicor Group                       479
+Security Services                     463
+Sedgwick Group                        442
+Seeboard                              436
+Sefimeg                               343
+Severn Trent                          187
+Sevillana de Electricidad             349
+Siebe                                 197
+Siemens                                 8
+Simco                                 369
+SIP                                   149
+Sirti                                 456
+Skanska                               391
+SKF                                   278
+SME                                   323
+SMH                                   143
+Smith & Nephew                        190
+Smith (WH) Group                    222
+Smithkline Beecham                     11
+Smiths Industries                     294
+Smurfit, Jefferson                    245
+Societe Gen. de Surveillance          223
+Societe Generale                       54
+Societe Generale de Belgique          116
+Sodexho                               416
+Sofina                                475
+Solvay et Cie                         142
+South Wales Electricity               470
+South West Water                      425
+South Western Electricity             460
+Southern Electric                     263
+Southern Water                        355
+Spring Ram Corporation                459
+Springer (Axel)                       320
+Standard Chartered                    259
+STET                                  138
+Stora                                 213
+Storehouse                            397
+Suedzucker                            315
+Suez (Compagnie Financiere de)         65
+Sulzer                                319
+Sun Alliance Group                    113
+Svenska Cellulosa                     185
+Svenska Handelsbanken                 465
+Swiss Bank Corporation                 62
+Swiss Reinsurance Group               108
+Swiss Volksbank                       494
+Swissair                              461
+Sydkraft                              225
+Synthelabo                            228 -----------------------------------------
+T -----------------------------------------
+T & N                                 386
+Tabacalera                            367
+Tarmac                                439
+Tate & Lyle                           220
+Telefonica                             47
+Tesco                                  63
+TF1                                   265
+Thames Water                          164
+Thomson-CSF                           169
+Thorn Emi                              85
+Thyssen                               131
+TI Group                              212
+Tomkins                               192
+Toro (Assicurazioni)                  429
+Total                                  59
+Tractebel                             137
+Transatlantic Holdings                449
+Trelleborg                            466
+TSB Group                             145 -----------------------------------------
+U -----------------------------------------
+UAP.                                   69
+UCB                                   379
+Unidanmark                            443
+Unigate                               409
+Unilever plc/NV                         4
+Union Bank of Switzerland              25
+Union Electrica-Fenosa                390
+United Biscuits (Holdings)            178
+United Newspapers                     311 -----------------------------------------
+V -----------------------------------------
+VNU                                   489
+Valeo                                 254
+Veba                                   35
+Vereins- und Westbank                 434
+VEW                                   161
+Viag                                  118
+Victoria Holding                      227
+Vodafone                               79
+Volksfuersorge                        382
+Volkswagen                             87
+Volvo                                 129 -----------------------------------------
+W -----------------------------------------
+Warburg SG Group                    256
+Weir Group                            488
+Wellcome                               29
+Welsh Water                           366
+Wessanen                              399
+Wessex Water                          380
+Whitbread                             135
+Wienerberger Baustoffindustrie        354
+Williams Holdings                     211
+Willis Corroon Group                  321
+Winterthur Versicherung               134
+Wolseley                              312
+Wolters Kluwer                        159
+Worms et Cie                          301
+Wuerttembergische AG Versich          293 -----------------------------------------
+Y -----------------------------------------
+Yorkshire Electricity                 296
+Yorkshire Water                       285 -----------------------------------------
+Z -----------------------------------------
+Z-Landerbank Bank Austria            175
+Zurich Insurance                      75 -----------------------------------------

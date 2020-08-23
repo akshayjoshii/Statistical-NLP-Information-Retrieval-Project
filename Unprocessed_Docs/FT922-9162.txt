@@ -1,0 +1,17 @@
+
+TEXAS Instruments announced a fast new microprocessor to be used in a new
+range of Sun Microsystems workstations which are expected to be introduced
+later this month.
+The Supersparc chip will give Sun workstations a much needed performance
+boost. The workstation market leader has been facing increased competition
+from Hewlett-Packard and International Business Machines workstations that
+outpace Sun's current products.
+The Texas Instruments chip, the first of a series of microprocessors that
+are being jointly developed with Sun Microsystems, will also be used in new
+mid-range computers planned by ICL of the UK. Texas Instruments will also
+offer the chip to other computer manufacturers.
+With its announcement yesterday, Texas Instruments has beaten rival Cypress
+Semiconductor to the punch. Next week Cypress and Sun Microsystems are
+expected to announce an even faster version of the Sparc microprocessor,
+although volume manufacturing of the Cypress chip is believed to be several
+months away.

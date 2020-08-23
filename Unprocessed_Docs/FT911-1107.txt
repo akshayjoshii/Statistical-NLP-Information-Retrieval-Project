@@ -1,0 +1,55 @@
+
+SENATOR Lloyd Bentsen's pronouncement this week that Japanese semiconductor
+processing equipment companies are withholding their latest technology from
+US chip makers highlights US fears of growing dependence on Japanese
+suppliers of critical technologies.
+Such fears give political ammunition to the US semiconductor industry and
+its Washington supporters. Senator Bentsen, Senate Finance Committee
+chairman, is among the US chip industry's most powerful political allies.
+That US chip makers depend increasingly on Japanese suppliers for production
+tools is hardly news. Japanese companies dominate several key segments of
+the semiconductor equipment market. The US wafer processing equipment
+industry suffered loss of market share in the 1980s, according to a national
+security assessment released by the Commerce Department's Bureau of Export
+Administration last week.
+This says the US chip production equipment industry 'is vital to the success
+of semiconductor manufacturing'. The health of US equipment companies
+'affects viability of the semiconductor industry', which in turn is crucial
+for enhancing industrial capabilities, and as a source of technical military
+advantage.
+Privately, US semiconductor executives complain they cannot get advanced
+equipment from Japan until long after their Japanese competitors. But
+evidence to support US industry charges that Japanese equipment makers
+deliberately delay shipments has, until now, been scant.
+Senator Bentsen claims that a General Accounting Office (GAO) investigation
+has uncovered several cases of alleged delays or refusals to ship critical
+Japanese equipment to US companies. In other cases, he says, US chip makers
+have had to pay prices 20-30 per cent higher than their Japanese competitors
+to obtain the latest equipment. GAO investigators had trouble getting US
+chip executives to state their problems, one industry expert said. 'US
+executives are afraid to criticise Japanese equipment companies. They fear
+reprisals.'
+With publication by Senator Bentsen of a list of seven Japanese companies
+alleged to have deliberately withheld technology from US chip makers, the
+industry's code of silence is breaking down. Advanced Micro Devices said
+this week it could not obtain a piece of equipment it knew its Japanese
+partner was using in a US production facility. 'We agree with the Senator's
+premise that the Japanese do hold back the latest equipment from us,' said
+Mr James Owens Jr, vice-president of world-wide wafer fabrication technology
+at National Semiconductor.
+Japanese responses cite lack of US service and support arrangements, or
+delays in translating manuals. 'These are just excuses,' the industry expert
+says. Fears of dependence on foreign tool suppliers have fuelled US chip
+industry support for Sematech, the government-funded consortium, whose
+mission has become to revitalise the US semiconductor equipment and
+materials industry.
+The GAO report, for release this summer, is likely to stress the need for a
+strong domestic chip equipment industry. Publication could coincide with
+calls to renew Defence Department funding for Sematech beyond its five-year
+charter.
+Senator Bentsen's preview seems timed to boost pressure on Japan to open its
+chip market further. US and Japanese trade officials were due to resume
+talks yesterday to seek a new chip trade pact. South Korea is seeking to
+build an equipment industry able to meet half its semiconductor industry
+needs by the year 2000. Japanese dependence on US equipment makers led it to
+create its own chip production equipment industry.

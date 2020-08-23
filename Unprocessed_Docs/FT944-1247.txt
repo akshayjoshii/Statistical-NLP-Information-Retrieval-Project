@@ -1,0 +1,32 @@
+
+Microsoft's share price dropped sharply yesterday when the software company
+announced a further delay in the launch of Windows 95, a long-awaited new
+version of the Windows personal computer program.
+Microsoft said that shipping of the product may be delayed until August. It
+had been expected to ship in May or June and already has been delayed by
+more than a year. The postponement is expected to put off the launch of
+Microsoft's planned on-line service, the Microsoft Network.
+The delay reflects Microsoft's 'continued commitment to deliver a vigorously
+tested product of the highest quality', the company said.
+The announcement came in the wake of the discovery of a flaw in Intel's
+Pentium microprocessor, and Microsoft's disclosure that the calculator
+program in the current version of Windows is prone to errors.
+'We have always said we will ship this product when it is ready, and that is
+what we are committed to do,' said Mr Brad Silverberg, senior vice-president
+of Microsoft's Personal Systems division.
+A pre-release version of Windows 95 has been shipped to more than 48,000
+testers, Microsoft said. The testing program will be expanded this spring.
+'Feedback from our current beta testers has been excellent, they love the
+product, but given the sheer breadth of Windows 95, shipping it may take us
+longer than we had originally anticipated,' Mr Silverberg added.
+Analysts called the delay 'disappointing' but noted that Windows 95 faces
+little competition and that launching the product without thorough 'bug
+fixing' could be more damaging. It is not yet clear, however, whether any
+significant flaws have been found in prototype versions.
+Mr Mike Brown, Microsoft's chief financial officer, said: 'Our top priority
+is to deliver a high quality, reliable product, rather than trying to meet
+targets for revenues from the product in any particular quarter.'
+Microsoft has said that it expected to sell as many as 20m copies of Windows
+95 in the first 12 months after the program is introduced.
+Microsoft shares dropped by more than 4 per cent to Dollars 59 7/8 at the
+close yesterday, from Monday's close of Dollars 62 5/8.

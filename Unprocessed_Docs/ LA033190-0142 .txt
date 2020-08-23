@@ -1,0 +1,1128 @@
+
+STATISTICS 
+ARKANSAS 
+Player 
+FG 
+FT 
+Reb 
+Ast 
+Pts 
+Day 
+.491 
+.750 
+5.3 
+2.6 
+19.3 
+Mayberry 
+.515 
+.792 
+2.9 
+5.2 
+14.6 
+Howell 
+.543 
+.760 
+5.4 
+1.9 
+13.8 
+Miller 
+.643 
+.654 
+6.3 
+1.4 
+11.4 
+Huery 
+.464 
+.802 
+3.0 
+2.5 
+10.1 
+Credit 
+.571 
+.795 
+3.9 
+0.4 
+9.5 
+Bowers 
+.390 
+.794 
+1.8 
+2.4 
+5.6 
+Hawkins 
+.538 
+.733 
+1.8 
+0.9 
+4.0 
+Murry 
+.407 
+.600 
+1.2 
+1.5 
+4.0 
+Marks 
+.554 
+.444 
+2.4 
+0.2 
+3.9 
+Whitby 
+.237 
+.875 
+0.4 
+0.7 
+1.4 
+Linn 
+.250 
+.500 
+0.3 
+0.1 
+0.5 
+Arkansas 
+.507 
+.733 
+34.6 
+19.1 
+95.9 
+Opp. 
+.449 
+.706 
+37.4 
+15.3 
+79.3 
+3-Point Field Goals: 191-479, .398 (Day 67-168, .398; Mayberry 65-125, .520; Murry 19-56, .339; Huery 17-51, .333; Bowers 11-33, .333; Whitby 6-26, .230; Howell 4-10, .400; Hawkins 1-2, .500; Linn 1-4, .250; Miller 0-4, .000). 
+DUKE 
+Player 
+FG 
+FT 
+Reb 
+Ast 
+Pts 
+Henderson 
+.473 
+.826 
+3.7 
+2.3 
+18.1 
+Laettner 
+.510 
+.841 
+3.5 
+2.2 
+16.3 
+Abdelnaby 
+.616 
+.778 
+6.7 
+0.8 
+14.9 
+Brickey 
+.500 
+.689 
+5.3 
+2.0 
+11.8 
+Hurley 
+.358 
+.778 
+1.9 
+7.8 
+9.2 
+McCaffrey 
+.455 
+.790 
+0.7 
+0.9 
+6.6 
+Davis 
+.488 
+.636 
+2.1 
+0.7 
+5.0 
+Koubek 
+.454 
+.707 
+2.5 
+0.5 
+4.9 
+Hill 
+.529 
+.629 
+2.2 
+0.8 
+3.7 
+Buckley 
+.444 
+.789 
+1.3 
+0.1 
+2.1 
+Cook 
+.444 
+.762 
+0.3 
+0.7 
+2.0 
+Palmer 
+.478 
+.429 
+2.2 
+0.1 
+1.4 
+Duke 
+.489 
+.764 
+37.7 
+17.7 
+89.3 
+Opp. 
+.448 
+.692 
+36.7 
+15.4 
+75.7 
+3-Point Field Goals: 152-381, .398 (Henderson 75-176, .426; Hurley 41-113, .362; Koubek 19-45, .422; McCaffrey 8-25, .320; Laettner 6-12, .500; Hill 3-7, .421; Brickey 0-2, .000; Cook 0-2, .000). 
+NEVADA LAS VEGAS 
+Player 
+FG 
+FT 
+Reb 
+Ast 
+Pts 
+Johnson 
+.627 
+.760 
+11.6 
+2.1 
+20.7 
+Butler 
+.486 
+.721 
+7.5 
+1.9 
+16.2 
+Hunt 
+.472 
+.670 
+2.2 
+4.0 
+15.4 
+Augmon 
+.546 
+.669 
+7.0 
+3.6 
+14.1 
+Anthony 
+.458 
+.693 
+3.1 
+7.5 
+11.1 
+Scurry 
+.518 
+.561 
+3.8 
+0.9 
+7.9 
+Bice 
+.485 
+.750 
+0.6 
+1.4 
+4.6 
+Young 
+.372 
+.680 
+2.1 
+1.0 
+4.2 
+Jones 
+.511 
+.550 
+3.0 
+0.3 
+3.8 
+Cvijanovich 
+.357 
+.893 
+1.1 
+2.0 
+2.5 
+Jeter 
+.367 
+.556 
+1.8 
+0.3 
+1.6 
+Rice 
+.316 
+.500 
+0.3 
+0.2 
+1.2 
+Emerzian 
+.000 
+.000 
+0.4 
+0.1 
+0.0 
+UNLV 
+.504 
+.699 
+42.2 
+23.2 
+93.3 
+Opp. 
+.421 
+.690 
+39.4 
+16.8 
+78.5 
+3-Point Field Goals: 242-661 .366 (Hunt 90-242, .371; Anthony 42-115, .365; Bice 36-74, .486; Young 30-95, .315; Augmon 15-49, .306; Cvijanovich 14-37, .378; Johnson 10-35, .285; Rice 5-12, .416; Jones 0-1, .000; Scurry 0-1, .000). 
+GEORGIA TECH 
+Player 
+FG 
+FT 
+Reb 
+Ast 
+Pts 
+Scott 
+.465 
+.799 
+6.7 
+2.1 
+27.7 
+Oliver 
+.516 
+.723 
+6.1 
+3.2 
+21.2 
+Anderson 
+.516 
+.736 
+5.4 
+8.1 
+20.7 
+Mackey 
+.558 
+.441 
+7.6 
+0.5 
+7.3 
+McNeil 
+.602 
+.780 
+5.2 
+0.7 
+5.9 
+Brown 
+.354 
+.662 
+1.9 
+3.1 
+3.8 
+Barnes 
+.462 
+.583 
+1.4 
+0.1 
+1.6 
+Munlyn 
+.323 
+.435 
+1.6 
+0.3 
+1.0 
+Domalik 
+.250 
+.500 
+0.3 
+0.3 
+0.9 
+White 
+.250 
+1.000 
+0.4 
+0.1 
+0.7 
+Ga. Tech 
+.495 
+.711 
+38.6 
+18.1 
+88.7 
+Opp. 
+.455 
+.703 
+38.3 
+17.4 
+80.5 
+3-Point Field Goals: 252-624, .403 (Scott 130-317, .410; Oliver 57-144, .395; Anderson 47-113, .415; Brown 14-37, .378; Domalik 4-12, .333; White 0-1, .000). 
+ROSTERS 
+ARKANSAS 
+No 
+Player 
+Pos 
+Yr 
+Hgt 
+Wgt 
+3 
+Warren Linn 
+G-F 
+Fr 
+6-5 
+190 
+10 
+Todd Day 
+G-F 
+So 
+6-7 
+200 
+11 
+Lee Mayberry 
+G 
+So 
+6-2 
+170 
+14 
+Ernie Murry 
+G 
+Jr 
+6-1 
+175 
+20 
+Arlyn Bowers 
+G 
+Jr 
+5-10 
+165 
+21 
+Darrell Hawkins 
+F 
+So 
+6-5 
+200 
+22 
+Cannon Whitby 
+G 
+Sr 
+6-0 
+160 
+24 
+Lenzie Howell 
+F 
+Sr 
+6-5 
+205 
+25 
+Oliver Miller 
+C 
+So 
+6-9 
+270 
+31 
+Ron Huery 
+F 
+Jr 
+6-7 
+200 
+42 
+Larry Marks 
+F 
+Jr 
+6-7 
+240 
+55 
+Mario Credit 
+C 
+Sr 
+6-9 
+235 
+Head Coach: Nolan Richardson 
+DUKE 
+No 
+Player 
+Pos 
+Yr 
+Hgt 
+Wgt 
+3 
+Phil Henderson 
+G 
+Sr 
+6-5 
+180 
+5 
+Billy McCaffrey 
+G 
+Fr 
+6-3 
+175 
+11 
+Bobby Hurley 
+G 
+Fr 
+6-0 
+150 
+13 
+Joe Cook 
+G 
+Jr 
+6-2 
+195 
+21 
+Robert Brickey 
+F 
+Sr 
+6-5 
+205 
+22 
+Greg Koubek 
+F 
+Jr 
+6-6 
+205 
+23 
+Brian Davis 
+G-F 
+So 
+6-6 
+185 
+25 
+Thomas Hill 
+G-F 
+Fr 
+6-4 
+190 
+30 
+Alaa Abdelnaby 
+C 
+Sr 
+6-10 
+240 
+32 
+Christian Laettner 
+F 
+So 
+6-11 
+225 
+34 
+Crawford Palmer 
+C 
+So 
+6-9 
+225 
+45 
+Clay Buckley 
+F-C 
+Jr 
+6-10 
+225 
+Head Coach: Mike Krzyzewski 
+NEVADA LAS VEGAS 
+No 
+Player 
+Pos 
+Yr 
+Hgt 
+Wgt 
+00 
+David Butler 
+C 
+Sr 
+6-10 
+200 
+4 
+Larry Johnson 
+F 
+Jr 
+6-7 
+250 
+5 
+S. Cvijanovich 
+G 
+Sr 
+6-3 
+200 
+12 
+Anderson Hunt 
+G 
+So 
+6-1 
+176 
+13 
+Travis Bice 
+G 
+So 
+6-4 
+152 
+15 
+Brian Emerzian 
+G 
+So 
+5-11 
+165 
+30 
+Dave Rice 
+G 
+Jr 
+6-4 
+205 
+32 
+Stacey Augmon 
+F 
+Jr 
+6-8 
+206 
+33 
+Barry Young 
+F 
+Jr 
+6-7 
+223 
+34 
+James Jones 
+C 
+Sr 
+6-8 
+220 
+35 
+Moses Scurry 
+F 
+Sr 
+6-7 
+220 
+50 
+Greg Anthony 
+G 
+Jr 
+6-2 
+190 
+53 
+Chris Jeter 
+F 
+Jr 
+6-8 
+216 
+Head Coach: Jerry Tarkanian 
+GEORGIA TECH 
+No 
+Player 
+Pos 
+Yr 
+Hgt 
+Wgt 
+TD 
+3 
+Brian Domalik 
+G 
+Jr 
+5-11 
+164 
+4 
+Dennis Scott 
+G-F 
+Jr 
+6-8 
+229 
+5 
+Karl Brown 
+G 
+Sr 
+6-2 
+187 
+12 
+Kenny Anderson 
+G 
+Fr 
+6-2 
+166 
+13 
+Brian Oliver 
+G 
+Sr 
+6-4 
+211 
+14 
+Greg White 
+G 
+So 
+6-2 
+168 
+15 
+Darryl Barnes 
+F 
+Fr 
+6-8 
+202 
+24 
+James Munlyn 
+C 
+Jr 
+6-11 
+228 
+32 
+Malcolm Mackey 
+F 
+Fr 
+6-10 
+243 
+44 
+Johnny McNeil 
+F-C 
+Sr 
+6-9 
+233 
+Head Coach: Bobby Cremins 
+GAME-BY-GAME RESULTS 
+ARKANSAS (30-4) 
+97 
+Samford 
+67 
+102 
+Oregon 
+75 
+105 
+at South Alabama 
+90 
+90 
+Mississippi 
+76 
+166 
+USIU 
+101 
+88 
+Missouri 
+89 
+91 
+Bethune Cookman 
+61 
+92 
+VMI 
+61 
+117 
+Delaware St. 
+75 
+93 
+at UNLV 
+101 
+82 
+at Houston 
+78 
+92 
+at Texas Tech 
+75 
+99 
+Baylor 
+84 
+93 
+TCU 
+79 
+80 
+at SMU 
+61 
+100 
+at Texas A&M 
+84 
+100 
+Houston 
+89 
+109 
+Texas 
+100 
+109 
+at UAB 
+95 
+70 
+at Rice 
+66 
+103 
+at Texas 
+96OT 
+100 
+Texas Tech 
+77 
+77 
+at Baylor 
+82 
+79 
+at TCU 
+81 
+77 
+SMU 
+46 
+114 
+Texas A&M 
+100 
+104 
+Rice 
+80 
+Southwest Conference Tournament 
+84 
+SMU 
+61 
+115 
+Baylor 
+75 
+96 
+Houston 
+84 
+NCAA Tournament 
+68 
+Princeton 
+64 
+86 
+Dayton 
+84 
+96 
+North Carolina 
+73 
+88 
+Texas 
+85 
+DUKE (28-8) 
+130 
+Harvard 
+54 
+102 
+Canisius 
+66 
+103 
+at Northwestern 
+77 
+76 
+Syracuse 
+78 
+108 
+at Michigan 
+113OT 
+89 
+at Davidson 
+44 
+74 
+Washington at Honolulu 
+64 
+101 
+Drake at Honolulu 
+77 
+95 
+Cincinnati at Honolulu 
+83 
+87 
+at Hawaii 
+75 
+108 
+Citadel 
+69 
+76 
+Virginia 
+68 
+96 
+at Georgia Tech 
+91 
+91 
+Maryland 
+80 
+60 
+at North Carolina 
+79 
+97 
+at Wake Forest 
+69 
+109 
+at William & Mary 
+76 
+85 
+North Carolina St. 
+82OT 
+88 
+Georgia Tech 
+86 
+94 
+Clemson 
+80 
+88 
+Notre Dame 
+76 
+69 
+at Virginia 
+72 
+114 
+at Maryland 
+111OT 
+102 
+at Stetson 
+67 
+84 
+East Carolina 
+51 
+71 
+Wake Forest 
+56 
+71 
+at North Carolina St 
+76 
+78 
+Arizona 
+76 
+93 
+at Clemson 
+97 
+75 
+North Carolina 
+87 
+Atlantic Coast Conference Tournament 
+104 
+at Maryland 
+84 
+72 
+Georgia Tech 
+83 
+NCAA Tournament 
+81 
+Richmond 
+46 
+76 
+St. John's 
+72 
+90 
+UCLA 
+81 
+79 
+Connecticut 
+78OT 
+GEORGIA TECH (28-6) 
+108 
+Georgia St. 
+83 
+87 
+Richmond 
+74 
+93 
+Pittsburgh 
+92 
+101 
+North Carolina A&T 
+87 
+92 
+Georgia 
+89 
+109 
+Coastal Carolina 
+82 
+98 
+Morehead 
+76 
+111 
+Pittsburgh 
+92 
+86 
+Marist 
+77 
+91 
+at Wake Forest 
+79 
+91 
+Duke 
+96 
+92 
+North Carolina St. 
+85 
+59 
+Temple 
+57 
+79 
+at Virginia 
+81OT 
+90 
+at Clemson 
+91 
+86 
+at Duke 
+88 
+102 
+North Carolina 
+75 
+90 
+at Maryland 
+84 
+79 
+Wake Forest 
+70 
+94 
+at Louisville 
+84 
+80 
+Maryland 
+78 
+83 
+at Fordham 
+78 
+95 
+at North Carolina St 
+92OT 
+71 
+Virginia 
+73 
+88 
+at Notre Dame 
+80OT 
+79 
+at North Carolina 
+81 
+85 
+Clemson 
+69 
+Atlantic Coast Conference Tournament 
+76 
+North Carolina St. 
+67 
+83 
+Duke 
+72 
+70 
+Virginia 
+61 
+NCAA Tournament 
+99 
+East Tennessee St. 
+83 
+94 
+LSU 
+91 
+81 
+Michigan St. 
+80OT 
+93 
+Minnesota 
+91 
+NEVADA LAS VEGAS (33-5) 
+102 
+Loyola Marymount 
+91 
+101 
+California 
+81 
+77 
+at Kansas 
+91 
+88 
+DePaul 
+53 
+81 
+at Oklahoma 
+89 
+79 
+at Pacific 
+65 
+97 
+Iowa 
+80 
+78 
+CS Long Beach 
+58 
+101 
+Arkansas 
+93 
+94 
+CS Fullerton 
+66 
+100 
+at San Jose St. 
+80 
+82 
+at New Mexico St. 
+83 
+82 
+at Temple 
+76 
+84 
+at Fresno St. 
+75 
+103 
+UC Irvine 
+67 
+86 
+at CS Long Beach 
+77 
+69 
+UC Santa Barbara 
+67 
+105 
+at LSU 
+107 
+124 
+Utah St. 
+90 
+88 
+North Carolina St. 
+82 
+105 
+San Jose St. 
+69 
+116 
+Pacific 
+76 
+100 
+Oklahoma St. 
+84 
+69 
+Fresno St. 
+64 
+109 
+New Mexico St. 
+86 
+95 
+Arizona 
+87 
+99 
+at UC Irvine 
+77 
+91 
+Louisville 
+81 
+70 
+at UC Santa Barbara 
+78 
+84 
+at Utah St. 
+82 
+103 
+at CS Fullerton 
+85 
+Big West Conference Tournament 
+115 
+CS Fullerton 
+93 
+99 
+Pacific 
+72 
+92 
+CS Long Beach 
+74 
+NCAA Tournament 
+102 
+Arkansas Little Rock 
+72 
+76 
+Ohio St. 
+65 
+69 
+Ball St. 
+67 
+131 
+Loyola Marymount 
+101 
+HOW CLOSE HAS IT BEEN? 
+The 1990 NCAA Basketball Tournament is considered the most competitive in its history. Here are some facts that show how close play has been in the tournament. 
+Games decided by four points or less: 29 
+Games decided by three points or less:: 23 
+Games decided by two points or less: 17 
+Games decided by one point: 7 
+Games decided in overtime: 5 
+Games decided on a successful shot as time ran out: 5 
+Games in which the losing team had a chance to win or tie the game but missed a shot, had a shot blocked, or had a play broken up as time ran out: 13 

@@ -1,0 +1,35 @@
+
+Hills Precision Components originated as Charles Hill & Co in 1919 and
+specialised in the manufacture of die-castings for the automotive industry.
+It started manufacturing plastic components for cars in 1954 in Coventry.
+Since 1992, it is 25 per cent-owned by Peugeot Talbot UK and 75 per
+cent-owned by the French component manufacturer ECIA, itself majority-owned
+by Peugeot France.
+Nature of Business: Manufacture of components for the automotive industry,
+including soft trim and plastics, which go to make up complete seats,
+facias, steering wheels and door panels. HPC delivers complete sub-assembled
+seats and facias to Peugeot Talbot at Ryton. which accounts for 75 per cent
+of its turnover, but other customers include Jaguar Cars, Rover, Honda and
+Massey Ferguson.
+Turnover: Pounds 35m in 1992, pounds 27m in 1991.
+Employees: 400, based at the factory in Stoke, Coventry.
+Key personnel: Bill Farmer, managing director. Bill McGilvray, supply
+manager.
+TECHNOLOGY FILE
+Software: The Data 3 manufacturing system provides a central pool of
+information to every department in the company, including production and
+sales and marketing. Data 3 is at the centre of HPC's adooption of
+Just-In-Time manufacturing techniques.
+Hardware: IBM AS400 D45, supporting up to 40 terminals. It has
+communications links with parent systems in France, including a mainframe.
+The computer is soon to be upgraded as a result of adding financial,
+forecasting, receiving and engineering systems: remote links have also
+slowed response time.
+Supplier: Hoskyns, the UK consultancy owned by French software house CGS,
+implemented and supported the original Data 3. Hoskyns is the UK agent for
+the ASK Group, owner of Data 3, a US-based specialist in manufacturing
+software. The French ASK agent, Unilog, has customised Data 3 for HPC's
+parent group, and HPC now uses the French version to keep in step with other
+European users in the same group.
+Value of system: Pounds 150,000 per year. (Local AS400 terminals etc). Pouns
+35,000 software licence per annum.

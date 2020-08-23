@@ -1,0 +1,13 @@
+ -----------------------------------------------------------------------
+FT 1000 Top 10 State Girls' Schools -----------------------------------------------------------------------
+Rank  School                        Town/County               FT   Type                                                             score -----------------------------------------------------------------------
+53    Henrietta Barnett School,The  Hampstead, London         1.38  VG
+80    Chelmsford County High        Chelmsford, Essex         1.33  GO
+84    Kendrick Grammar              Reading, Berkshire        1.32  G
+91    Newstead Wood                 Orpington, Greater        1.31  GO                                    London
+105   Colchester County             High Colchester, Essex    1.29  GO
+147   Queen Mary's                  High Walsall, West        1.24  GO                                    Midlands
+176   Tunbridge Wells Grammar       Tunbridge Wells, Kent     1.21  G
+177   K E VIth Camp Hill Girls      Birmingham, West Midlands 1.21  GO
+193   Beaconsfield High             Beaconsfield, Bucks       1.20  GO
+207   Stratford-upon-Avon Grammar   Stratford-upon-Avon,      1.19  G                                    Warwicks -----------------------------------------------------------------------
