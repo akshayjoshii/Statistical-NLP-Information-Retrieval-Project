@@ -1,4 +1,6 @@
 import os
+import re
+
 root = os.getcwd()
 for file in os.listdir('.'):
    if not os.path.isfile(file):

@@ -90,32 +90,71 @@ def similarity(query,id, N):
     return similarity
 
 
-def do_search(document_filenames, N):
-    doc_list = []
-    with open("extracted_test_questions.txt", "r") as query_file:
-        for i, query in enumerate(query_file):
-            if i % 2 != 0:
-                #query = tokenize(input("Search query >> "))
-                relevant_document_ids = intersection([set(postings[term].keys()) for term in query])
-                scores = sorted([(id,similarity(query, id, N)) for id in relevant_document_ids], 
-                                key=lambda x: x[1], reverse=True)[:50]
-                print("Score: filename")
-                for (id, score) in scores:
-                    doc_list.append(document_filenames[id])
-                    print(str(score)+": "+document_filenames[id])
-                print(len(doc_list))
-                #print(doc_list)
-            if i == 6:
-                 break
+def precisionAtK(document_filename, query_to_pattern_map):
+    input_document = open(document_filename, "r")
+    for line in input_document:
+        for pattern in query_to_pattern_map:
+            result = bool(re.findall(pattern, line, flags = re.IGNORECASE))
+            if result == True:
+                return True
+    input_document.close()
+    return False
+        
+
+def patternExtraction(path):
+    patterns = {}
+    with open(path, "r") as file:
+        content = file.readlines()
+        for line in content:    
+            tokens = line.split(' ', 1)
+            if tokens[0] not in patterns:
+                key = tokens[0]
+                pattern = []
+                pattern.append(tokens[1].replace('\n', ''))
+                patterns[key] = pattern
+            else:  
+                (patterns[tokens[0]]).append(tokens[1].replace('\n', ''))
+        #print(patterns)
+    file.close()
+    return patterns
+
+
+def do_search(document_filenames, N, patterns):
+    query_file = open("extracted_test_questions.txt", "r")
+    mean_precision_results_list = []
+    query_to_pattern = {}
+    j = 1
+    for i, query in enumerate(query_file):
+        precise_docs = []
+        if not (i % 2) == 0:
+            query_to_pattern[query] = patterns[str(j)]
+            j += 1
+            #query = tokenize(input("Search query >> "))
+            relevant_document_ids = intersection([set(postings[term].keys()) for term in query])
+            scores = sorted([(id,similarity(query, id, N)) for id in relevant_document_ids], key=lambda x: x[1], reverse=True)[:50]
+            #print("Score: filename")
+            for (id, score) in scores:
+                result = precisionAtK(document_filenames[id], query_to_pattern[query])
+                if result == True:
+                    precise_docs.append(1)
+                #print(str(score)+": "+document_filenames[id])
+            #print(len(doc_list))
+            #print(doc_list)
+        mean_precision_results_list.append(len(precise_docs) / 50)
+    mean_precision_results = (sum(mean_precision_results_list) / 100)
+    print(f"The Mean Precicion @ 50 is: {mean_precision_results}")
+    query_file.close()   
 
 
 if __name__ == "__main__":
-    path = "test"
+    document_evidence_path = "Extracted Docs"
+    patterns_path = "patterns.txt"
     print("\n[INFO] Please be patient, building a massive postings list!")
-    document_filenames = populateDocumentEvidenceList(path)
+    document_filenames = populateDocumentEvidenceList(document_evidence_path)
     N = len(document_filenames)
     initialize_terms_and_postings(document_filenames)
     initialize_document_frequencies()
     initialize_lengths(document_filenames)
-    while True:
-        do_search(document_filenames, N)
+    patterns = patternExtraction(patterns_path)
+    do_search(document_filenames, N, patterns)
+    

@@ -73,8 +73,8 @@ class Extract:
         oup.close 
         print("\n[INFO] Parsing Test Questions file complete!")
         print(f"\nTest Questions file saved as: {outtxt}")
-
     
+
 # Driver code
 if __name__ == "__main__":
         # Create separate docs by extracting info inside <text> tags from xml
