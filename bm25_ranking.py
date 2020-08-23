@@ -4,9 +4,10 @@ from nltk.tokenize import word_tokenize
 import numpy as np
 
 
-class BM25Rank():
-    def __init__(self, scores):
-        self.scores = scores
+class BM25Rank:
+    def __init__(self):
+        self.scores = []
+        self.query = ''
         self.characters = " .,!#$%^&*();:\n\t\\\"?!{}[]<>``'`"
         self.doc_corpus = []
         self.sentence_corpus = []
@@ -27,12 +28,14 @@ class BM25Rank():
         print(self.final_rank)
 
     def top50_rank(self):
-        scores = sorted([(key, value) for key, value in self.bm25_rank_dict.items()],
+        top50_scores = sorted([(key, value) for key, value in self.bm25_rank_dict.items()],
                         key=lambda x: x[1], reverse=False)[:self.no_of_docs_reqd]
-        print(scores)
-        return scores
+        print(top50_scores)
+        return top50_scores
 
-    def get_doc_rank(self):
+    def get_doc_rank(self, query, scores):
+        self.query = query
+        self.scores = scores
         for id in self.scores:
             f = open(id, 'r')
             document = f.read()
@@ -40,8 +43,8 @@ class BM25Rank():
             doc_terms = self.tokenize(document)
             self.doc_corpus.append(doc_terms)
         bm25 = BM25Okapi(self.doc_corpus)
-        query = "what debts did qintex group leave ?"
-        tokenized_query = self.tokenize(query)
+        query1 = "what debts did qintex group leave ?"
+        tokenized_query = self.tokenize(query1)
         doc_scores = bm25.get_scores(tokenized_query)
         print(doc_scores)
         doc_scores_sorted = np.argsort(doc_scores)[::-1]
@@ -51,7 +54,24 @@ class BM25Rank():
         self.top50_rank_list = self.top50_rank()
         return self.top50_rank_list
 
-    def get_sentence_rank(self):
+    def get_sentence_rank(self, query, top50_rank_list):
+        self.query = query
+        self.top50_rank_list = top50_rank_list
+        top50_files_sent = []
+        # for filename, rank in self.top50_rank_list:
+        #     filename = filename.strip('.txt')
+        #     sent_filename = filename + '_1.txt'
+        #     top50_files_sent.append(sent_filename)
+        #     f = open(sent_filename, 'r')
+        #     document = f.read()
+        #     f.close()
+        #     sentences = nltk.sent_tokenize(document)  # this gives us a list of sentences
+        #     # now loop over each sentence and tokenize it separately
+        #     sentence_terms = ''
+        #     for sentence in sentences:
+        #         sentence_terms = self.tokenize(sentence)
+        #     self.sentence_corpus.append(sentence_terms)
+
         for id, rank in self.top50_rank_list:
             f = open(id, 'r')
             document = f.read()
@@ -62,27 +82,26 @@ class BM25Rank():
             for sentence in sentences:
                 sentence_terms = self.tokenize(sentence)
             self.sentence_corpus.append(sentence_terms)
+
         bm25 = BM25Okapi(self.sentence_corpus)
 
-        query = "what debts did qintex group leave ?"
-        tokenized_query = self.tokenize(query)
+        query1 = "what debts did qintex group leave ?"
+        tokenized_query = self.tokenize(query1)
 
         sent_scores = bm25.get_scores(tokenized_query)
         print(sent_scores)
-        sent_scores_sorted = np.argsort(sent_scores)[::-1][:self.no_of_docs_reqd]
+        # sent_scores_sorted = np.argsort(sent_scores)[::-1][:self.no_of_docs_reqd]
         top_50_sentences = bm25.get_top_n(tokenized_query, self.sentence_corpus, n=self.no_of_docs_reqd)
         for item in top_50_sentences:
             print(item)
-        # print(top_50_sentences)
-        # print(doc_scores_sorted)
-        # self.write_to_dict(doc_scores_sorted.tolist())
-        # self.top50_rank_list = self.top50_rank()
-        # return self.top50_rank_list
+        return top_50_sentences
+
 
 # Driver code
 if __name__ == "__main__":
     score = ['Extracted Docs/ LA102189-0132 .txt', 'Extracted Docs/ LA060690-0106 .txt', 'Extracted Docs/ LA112189-0092 .txt', 'Extracted Docs/ LA102789-0129 .txt', 'Extracted Docs/ LA112189-0145 .txt', 'Extracted Docs/ LA102489-0083 .txt', 'Extracted Docs/ LA053089-0114 .txt', 'Extracted Docs/ LA101989-0172 .txt', 'Extracted Docs/ LA102189-0131 .txt', 'Extracted Docs/ LA110389-0124 .txt']
-    obj = BM25Rank(score)
-    top50_docs = obj.get_doc_rank()
-    obj.get_sentence_rank()
+    query2 = "what debts did qintex group leave ?"
+    obj = BM25Rank()
+    top50_docs = obj.get_doc_rank(query2, score)
+    top50_sents = obj.get_sentence_rank(query2, top50_docs)
 
