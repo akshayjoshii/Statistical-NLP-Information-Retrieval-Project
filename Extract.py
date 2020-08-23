@@ -43,10 +43,10 @@ class Extract:
                 f = open(os.path.join(self.path, (tag_contents[i].text +self.extension)), "w+")
                 raw_file_content = tag_contents[i+1].text
                 # Pre-processing raw text before tokenizing to preven't corruption/elimination of words such as 'can't' or 'english-spoken'
-                #processed_file_content = raw_file_content.translate(self.token_rule)
-                #tokens = word_tokenize(processed_file_content)
-                tokens = word_tokenize(raw_file_content)
-                tokens_without_sw = [word.lower() for word in tokens if not word in self.stop_words]
+                processed_file_content = raw_file_content.translate(self.token_rule)
+                tokens = word_tokenize(processed_file_content)
+                tokens = [word.lower() for word in tokens]
+                #tokens_without_sw = [word.lower() for word in tokens if not word in self.stop_words]
                 f.write(" ".join(tokens))
                 f.close
         print("\n[INFO] Document evidence parsing complete")
@@ -66,8 +66,8 @@ class Extract:
         with open(outtxt, "w+") as oup:
             for line in processed_queries:
                 if line.strip():
+                    line = line.translate(self.token_rule)
                     line = word_tokenize(line.lower())
-                    #line = line.translate(self.token_rule)
                     oup.write(" ".join(line))
                     oup.write("\n")
         oup.close 
