@@ -1,0 +1,93 @@
+
+US hurricane futures, European flood options and even 'Acts of God bonds'
+will be traded by international investors within the next few years,
+predicts Mr Richard Sandor, a US financier and a founding father of the
+financial derivatives industry.
+Mr Sandor, who pioneered interest rate and currency futures and options in
+the 1970s and 1980s, says that an embryonic reinsurance derivatives market
+is established.
+Catastrophe reinsurance futures and options contracts were launched in
+December 1992 by the Chicago Board of Trade, which also lists a number of
+financial and other derivatives contracts. Trade so far has been limited,
+but the volume of transactions has increased by more than 10 times in the
+past year or so.
+More important, the development of an exchange-traded product appears to be
+directly influencing developments in reinsurance, where an over-the-counter
+market in catastrophe reinsurance options has emerged.
+'It is past its infancy and is really starting to crawl,' says Mr Sandor,
+now chief executive and chairman of Centre Financial Products, a New
+York-based derivatives boutiques firm, which is one of more than a dozen
+firms trading the contracts in Chicago.
+Most reinsurers are still highly sceptical about derivatives products. One
+chief executive argues that the options currently traded on the exchange are
+at least one and half times more expensive than equivalent reinsurance
+contracts. Critics say the liquidity in the derivatives market is likely to
+remain small and that the indices on which the contracts are based are
+inadequate and inferior to the traditional reinsurance products.
+However, some reinsurers are more positive. Zurich Insurance, the large
+Swiss company, owns a stake in Mr Sandor's company, and others, including
+two UK brokers - Sedgwick and Willis Corroon - are also exploring the
+potential. There is interest, too, at Lloyd's. Mr Richard Keeling, a leading
+underwriter, said: 'It is interesting; we ought to be taking it seriously.'
+Underpinning the interest is the conviction that the capital base of the
+orthodox insurance and reinsurance industry is increasingly inadequate to
+cope with the scale of catastrophic risks, a fact graphically demonstrated
+by disasters in the US.
+Hurricane Andrew, which tore through Florida in August 1992, was the
+costliest US catastrophe with losses of more than Dollars 16bn.
+This year's Northridge earthquake, which killed 60 people and damaged 44,000
+California homes in January, was the industry's second costliest, with
+losses amounting to more than Dollars 7bn.
+The severity of the loss was more a reflection of economic growth and
+demographic change over the past two decades than the power of the seismic
+shock itself. The Northridge earthquake 'would have been a non-event 25
+years ago,' according to Mr Sandor.
+Mr Andrew Martin, managing director of Sedgwick Payne Insurance Strategy,
+says that the capital and surplus of the US property and casualty industry
+is estimated at Dollars 183bn, 'but many trillions of assets are insured and
+the risks exposed are increasing faster than insurers' capital and
+capacity'.
+The Chicago Board of Trade contract is based on an index calculated by the
+Insurance Services Office (ISO), a US industry body, and on the premiums
+received and claims paid by more than 24 US insurance companies.
+Futures contracts are priced according to moves in the ISO loss ratio. The
+settlement price of each increases by Dollars 250 for each 1 per cent
+upwards movement in the ratio. For example, while a loss ratio of 20 per
+cent would give each contract a value of Dollars 5,000, a loss ratio of 120
+per cent would make the contract worth Dollars 30,000.
+Although trade in the futures contract itself has failed to take off,
+investors and buyers have begun to trade options - deals giving buyers the
+right but not the obligation to buy or sell at a pre-determined price.
+Most of the contracts are 'call spreads', used to limit and isolate a
+particular layer of risk, explains Mr Morton Lane, managing partner of Lane
+Financial, a company which advises brokers trading on the exchange.
+Typically, buyers pay for an option to buy a futures contract when the loss
+ratio exceeds 50 per cent and sell when the ratio exceeds 70 per cent. The
+arrangements in effect give protection in the same way as an excess of loss
+reinsurance contract.
+Over the past 18 months the CBoT has registered more than 5,000 trades on
+one particular contract - covering catastrophe losses on the eastern
+seaboard of the US, where there are large storm exposures. Observers also
+note a growing trend for reinsurers to use the Chicago contract loss index
+as an element of a specialist reinsurance policy, the loss warranty.
+Claims on a loss warranty policy are triggered by two sets of losses: those
+on the insurance policy of the buyer, and industry-wide claims.
+Mr Lane says that the exchange has stimulated changes in the way franchise
+covers are underwritten, with the trigger relating to industry-wide losses
+becoming more important.
+As much as 20 times more business could be traded in 'over the counter
+contracts', Mr Lane estimates, with underwriters of these deals frequently
+hedging their exposures by buying exchange traded contracts.
+Mr Sandor compares the development to the way in which the underwriters of
+OTC interest rate swaps hedged their positions by buying eurodollar or US
+government bond futures in Chicago in the 1980s, helping to fuel the growth
+of that market.
+In spite of industry scepticism, enthusiasts stress the attractions of the
+new products. For example, while the price of a traditional contract is
+generally known only by broker and underwriter, derivative contracts are
+transparent. And while reinsurance contracts are negotiated once a year,
+derivative contracts are more flexible and can be purchased or traded at any
+time.
+Mr Martin says the development signals the beginning of the securitisation
+of the reinsurance industry, bringing it into line with other financial
+services. 'Insurance and reinsurance may be the last frontier,' he says.

@@ -1,0 +1,142 @@
+
+Demand for the first drug proven to have an effect against multiple
+sclerosis, Betaseron, outstrips supply to such an extent that a lottery is
+used to decide which patients should receive it.
+When Schering of Germany launched Betaseron last September in the US, the
+only country in which it is licensed for sale, doctors registered 80,000 MS
+patients who wanted the drug. The company's computer then picked 15,000 at
+random to begin treatment, at a cost of Dollars 9,500 (Pounds 6,500) a year
+each.
+Schering's US subsidiary, Berlex, says 20,000 patients are now receiving
+injections of Betaseron - a form of beta-interferon - and a further 20,000
+are preparing to start treatment. Chiron, the Californian biotechnology
+company which manufactures Betaseron for Berlex from genetically engineered
+bacteria, is increasing production rapidly; it forecasts that the US waiting
+list will have disappeared by 1995.
+Schering hopes to submit a European licence application for Betaseron next
+month. European supplies will be manufactured by Germany's Boehringer
+Ingelheim.
+Meanwhile two competing beta-interferons, developed by Ares-Serono of
+Switzerland and Biogen of the US, are moving through clinical trials in MS
+patients. Ian Broadhurst, a pharmaceutical analyst with BNP Capital Markets,
+predicts that Betaseron will not enjoy more than two years free from
+competition, though it could still bring Schering DM600m (Pounds 250m) in
+sales in 1995.
+Besides the interferons, many other 'new generation' MS drugs are at various
+stages of research and development. A BNP report last month listed 25
+commercial R&D projects in progress around the world; the most advanced are
+shown in the table. Together they represent progress on a broad front
+against MS, the most common disease of the nervous system in young adults,
+which affects an estimated 2m people worldwide.
+Effective MS treatments could give the pharmaceutical industry a huge new
+market. Potential US sales are Dollars 1.8bn a year, according to an
+estimate by Genetic Technology News, a biotechnology newsletter.
+Although the precise molecular cause of MS is not yet known, scientists
+agree that it is an auto-immune disease in the same broad category as
+rheumatoid arthritis and diabetes. The body's immune system, which is
+intended to defend it against germs and other foreign invaders, turns
+against its own cells. The self-attack is probably triggered by a
+combination of genetic and environmental factors.
+In MS, white blood cells (T-cells) destroy the protein sheath called myelin
+which protects nerve fibres. This stops the nerves working properly and the
+patient begins to lose control of muscles. Symptoms include partial
+paralysis, blurred vision and speech difficulties.
+But the progress of MS is variable. In the worst cases of
+'chronic-progressive MS' the neurological problems become steadily more
+severe and eventually kill the patient. In 'relapsing-remitting MS' the
+disease flares up at unpredictable intervals - and may even disappear
+spontaneously.
+Neither beta-interferon nor the other experimental drugs can cure MS but,
+for the first time, they do promise a significant amelioration in the
+disease. Until now, doctors have only been able to offer patients 'comfort
+therapy' such as pain-killers and anti-inflammatory drugs, which control
+some of the symptoms but have no effect on the underlying disease.
+MS specialists such as George Ebers, a Canadian neurologist at the
+University Hospital, London, Ontario, are understandably cautious about
+claims for new treatments because 'there have been so many false dawns -
+therapies which have been widely used but found on further study to be
+ineffective'. For example, hyperbaric oxygen treatment (subjecting the
+patient to high pressure oxygen) became fashionable in the 1970s and was
+discredited in the 1980s.
+Researchers also claimed success with drugs such as cyclophosphamide and
+cyclosporin, which suppress the patient's whole immune system, but these too
+turned out to be ineffective against MS when tested properly. The only
+acceptable clinical test is a double-blind, randomised, placebo-controlled
+trial: patients are divided at random into two groups, one of which receives
+the drug and the other an identical dummy, and neither patients nor
+investigators know until the end who is getting what.
+Tested under those conditions on patients with relapsing-remitting MS,
+Betaseron reduced the number of attacks by one third and reduced
+significantly the amount of nerve damage shown by magnetic resonance
+imaging. But, as Ian McDonald of London University's Institute of Neurology
+points out, Betaseron has not yet been shown to have any effect on patients'
+long-term development of disability.
+Interferons are natural proteins which perform a wide range of functions,
+including modulating the immune system. All three kinds - alpha, beta and
+gamma - have been tested on MS. Alpha had no effect, while gamma made the
+disease worse; scientists now believe natural gamma-interferon may play a
+role in the progression of MS.
+It is not clear how beta-interferon brings about an improvement. According
+to Ares-Serono, it may both decrease the activity of the immune cells that
+destroy myelin and counteract the disease-enhancing effects of
+gamma-interferon.
+The Ares-Serono and Biogen beta-interferons differ slightly from Betaseron.
+They are made by genetically engineered mammalian cells, rather than by
+bacteria cultures. As a result they have sugar chains on the protein
+surface, like natural human interferon but unlike the Schering product. In
+theory this could give them a clinical advantage - in terms of fewer
+side-effects and improved efficacy - but there is no evidence to show
+whether they work better in practice.
+Most of the other MS treatments under development aim to disable the
+specific part of the immune system that is responsible for MS, without
+suppressing the other immune functions that are essential for fighting
+disease. Those most advanced in the development process include:
+Deoxyspergualin (DSG), a natural bacterial extract discovered by Nippon
+Kayaku in Japan and developed by Hoechst of Germany. It suppresses harmful
+T-cells and may also stimulate the regrowth of damaged myelin. If clinical
+trial results due next month are encouraging, Hoechst will apply for a
+marketing licence. Regulatory approval could follow quickly since DSG is not
+a genetically engineered product.
+Myloral, a formulation of bovine (cow) myelin, developed by AutoImmune, a
+Massachusetts biotechnology company. It is an 'oral tolerance therapy'. The
+patient is fed the protein so that the immune system comes to tolerate it
+and therefore is less inclined to attack his or her own myelin. After
+promising early results, Myloral is now in large-scale clinical trials.
+Copolymer-1 (Cop-1), a synthetic chemical resembling myelin protein,
+developed by Teva in Israel. When injected into the patient, this decoy
+attracts the immune cells away from the real myelin. It is in the final
+stage of clinical trials.
+At earlier stages of development, the biotechnology industry is testing
+several experimental drugs, including antibodies and vaccines. These are
+aimed either at specific types of T-cell which the researchers believe are
+responsible for the immune attack in MS or at 'antigens' in the myelin which
+provoke the attack.
+However, there is vigorous debate between MS specialists about whether the
+fundamental defect lies in a very narrow sub-group of T-cells - in which
+case a specific drug could in theory cure the disease - or whether a wider
+range of immune cells are responsible. If so, MS will be harder to treat.
+Ebers inclines to the latter view. Even so, he says, 'the mood, among a
+sceptical audience, is now approaching optimism'.
+The series continues next month with a look at blood products.
+Articles over the last six months have looked at pharmaceutical
+advances in the following areas:
+Sepsis 31 March
+Prostate 25 February
+Wound healing 21 January
+Obesity 23 December
+Contraceptives 12 November
+Anaesthetics 15 October -----------------------------------------------------------------------
+Multiple Sclerosis selected drugs in clinical trials -----------------------------------------------------------------------
+COMPANY           COUNTRY        LEAD COMPOUND         POSSIBLE LAUNCH -----------------------------------------------------------------------
+Anergen           US             MHC Peptide Complex         1999
+Ares-Serono       Switzerland    beta interferon             1996
+AutoImmune        US             AI-100 (bovine myelin)      1996
+Biogen            US             beta interferon             1995
+Cel-Sci           US             T-cell vaccine              1998
+Celtrix           US             TGF-B2                      1998
+Hoechst           Germany        deoxyspergualin (DSG)       1995
+Icos              US             23F2G MAb                   1999
+Immune Response   US             AI-208                      1999
+Schering          Germany        beta interferon             1993
+Teva              Israel         Copolymer-1                 1995 -----------------------------------------------------------------------
+Source: BNP Group Equity Research -----------------------------------------------------------------------

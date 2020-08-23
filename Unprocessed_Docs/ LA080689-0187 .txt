@@ -1,0 +1,28 @@
+
+The sizes and asking prices of new condominiums completed during 1988, based on information compiled by the U.S. Census Bureau. 
+Size 
+No. of Units Completed 
+Fewer than two bedrooms 
+13,200 
+Two bedrooms 
+51,800 
+Three or more bedrooms 
+9,100 
+Price Range 
+No. of Units Completed 
+Less than $50,000 
+2,900 
+$50,000 to $74,999 
+12,800 
+$75,000 to $99,999 
+16,100 
+$100,000 to $149,999 
+16,200 
+$150,000 to $199,999 
+12,500 
+$200,000 and up 
+13,700 
+Total* 
+74,100 
+*Due to rounding, totals do not add exactly. 
+SOURCE: U.S. Housing Markets. 

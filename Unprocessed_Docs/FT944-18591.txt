@@ -1,0 +1,32 @@
+ ---------------------------------------
+UK ---------------------------------------
+Atlas Converting           22
+Baris                      22
+Betacom                    22
+Darby                      22
+Hillsdown                  22
+Inoco                      22
+Just                       22
+Lloyds Bank                29
+National Power              9
+Ryan Group                  9
+Shell                       9
+Waterman                   22 ---------------------------------------
+Overseas ---------------------------------------
+Aeromexico                 23
+Air France                 22
+BHF-Bank                   23
+BZ                         23
+Banque Hervet              22
+Citicorp                   29
+Cominco                    23
+Ferfin                     23
+Hoechst                    23
+Hoover Australia           29
+Ina                        23
+Ind. Bank of Japan         29
+MIM Holdings               23
+Maytag                     29
+Saint-Louis                22
+Shell Australia            29
+UBS                        23 ---------------------------------------

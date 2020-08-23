@@ -6,6 +6,7 @@ import numpy as np
 from collections import defaultdict
 from functools import reduce
 from bm25_ranking import BM25Rank
+from regex_tokenize import RegexTokenizer
 
 #path = os.path.join("test")
 #document_filenames = populateDocumentEvidenceList(path)
@@ -69,7 +70,7 @@ def initialize_lengths(document_filenames):
 
 def imp(term,id, N):
     if id in postings[term]:
-        return postings[term][id]*inverse_document_frequency(term, N)
+        return postings[term][id]*inverse_document_frequency(term, N) * 1.2
     else:
         return 0.0
 
@@ -156,20 +157,22 @@ def do_search(document_filenames, N, patterns):
         precise_docs_bm25 = []
         if not (i % 2) == 0:
             query_to_pattern[query] = patterns[str(j)]
+            obj = RegexTokenizer()
+            query2 = obj.get_tokens(query)
             j += 1
             #query = tokenize(input("Search query >> "))
-            relevant_document_ids = intersection([set(postings[term].keys()) for term in query])
-            scores = sorted([(id,similarity(query, id, N)) for id in relevant_document_ids], key=lambda x: x[1],
+            relevant_document_ids = intersection([set(postings[term].keys()) for term in query2])
+            scores = sorted([(id,similarity(query2, id, N)) for id in relevant_document_ids], key=lambda x: x[1],
                             reverse=True)[:50]
-            scores_bm25 = sorted([(id, similarity(query, id, N)) for id in relevant_document_ids], key=lambda x: x[1],
+            scores_bm25 = sorted([(id, similarity(query2, id, N)) for id in relevant_document_ids], key=lambda x: x[1],
                             reverse=True)[:1000]
 
             top1000_filenames = []
             for id, score in scores_bm25:
                 top1000_filenames.append(document_filenames[id])
             obj = BM25Rank()
-            top50_docs = obj.get_doc_rank(query, top1000_filenames)
-            top50_sents = obj.get_sentence_rank(query, top50_docs)
+            top50_docs = obj.get_doc_rank(query2, top1000_filenames)
+            top50_sents = obj.get_sentence_rank(query2, top50_docs)
 
             precise_docs_bm25 = get_precision(top50_docs, query_to_pattern[query], precise_docs_bm25)
             rank_for_queries = get_precision_sentences(top50_sents, query_to_pattern[query], rank_for_queries)
@@ -198,6 +201,7 @@ def do_search(document_filenames, N, patterns):
 
 if __name__ == "__main__":
     document_evidence_path = "Extracted Docs"
+    # document_evidence_path = "test"
     patterns_path = "patterns.txt"
     print("\n[INFO] Please be patient, building a massive postings list!")
     document_filenames = populateDocumentEvidenceList(document_evidence_path)

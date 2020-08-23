@@ -1,0 +1,14 @@
+
+A town in Sweden has installed a system based on magnetic sensors to help
+blind and partially-sighted people find their way around.
+The Hanmyo system, which was developed by NEC, the Japanese group, consists
+of ferrite particles embedded in paving slabs on a designated route through
+town. These interact with a magnetic sensor incorporated within the user's
+white cane, causing the cane to vibrate when it comes in contact with the
+ferrite pavements. At certain points in the town, the cane activates
+loudspeakers which provide information on street names and potential
+hazards.
+This is the first Hanmyo system to be installed in Europe, although 100
+similar systems have already been installed in buildings and streets in
+Japan.
+NEC: UK, tel 071 353 4383; fax 071 353 4384

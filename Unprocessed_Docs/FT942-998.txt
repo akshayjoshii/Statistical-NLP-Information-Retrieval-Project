@@ -1,0 +1,53 @@
+ -----------------------------------------------------------------------
+M&S                                  ABB -----------------------------------------------------------------------
+RANK 1=              RANK 1=
+Company       Marks and Spencer      Company    ABB - Asea Brown Boveri
+Country              UK              Country       Sweden/Switzerland
+Sector             Retail            Sector           Engineering
+Voting                               Voting
+countries*           3               countries*           4 -----------------------------------------------------------------------
+Royal Dutch/Shell                    British Airways -----------------------------------------------------------------------
+RANK                 3               RANK                 4
+Company        Royal Dutch/Shell     Company        British Airways
+Country          Netherlands/UK      Country             UK
+Sector        Oil, gas and mining    Sector           Transport
+Voting                               Voting
+countries*           4               countries*           4 -----------------------------------------------------------------------
+Unilever                             British Airways -----------------------------------------------------------------------
+RANK                 5               RANK                 6
+Company           Unilever           Company           Nestle
+Country         Netherlands/UK       Country         Switzerland
+Sector         Food processors       Sector        Food Processors
+Voting                               Voting
+countries*           3               countries*           5 -----------------------------------------------------------------------
+Deutsche Bank                        British Airways -----------------------------------------------------------------------
+RANK                 7               RANK                 8
+Company         Deutsche Bank        Company       BMW - Bayerische                                                     Motoren Werke
+Country           Germany            Country          Germany
+Sector         Bank & Financial      sector       Automobiles/Auto                 Institutions                      trucks & parts
+Voting                               Voting
+countries*           4               countries*           3 -----------------------------------------------------------------------
+BTR                                  Rentokil -----------------------------------------------------------------------
+RANK                 9               RANK                10
+Company             BTR              Company           Rentokil
+Country              UK              Country             UK
+Sector       Diversified Holding     sector        Diversified Holding                  Companies                            Companies
+Voting                               Voting
+countries*           1               countries*           2 -----------------------------------------------------------------------
+*Number of countries from where votes were recorded -----------------------------------------------------------------------                                                               Countries
+Rank Company                Country  Sector                      Voting* -----------------------------------------------------------------------
+11   LVMH                     Fra    Beverages & Tobacco           3
+12   L'Air Liquide            Fra    Chemicals, Paper & Packaging  3
+13   Virgin                   UK     Transport                     1
+14   Rolls Royce              UK     Engineering                   3
+15   GEC                      UK     Electronics & Components      3
+16   Zurich Insurance        Switz   Insurance                     3
+17   RWE                      Ger    Electricity  & Water          2
+18   Glaxo                    UK     Pharmaceuticals & Healthcare  2
+19   British Telecom          UK     Telecoms & Communications     2
+20   Union Bank of     Switzerland             Switz   Bank & Financial Institutions 2
+21   Siemens                  Ger    Electronics & Components      1
+22   L'Oreal                  Fra    Household & Textiles          1
+23   Electrabel               Bel    Electricity & Water           1
+24   Cimenteries CBR          Bel    Construction & Building       1
+25   Canal Plus               Fra    Materials                     1 -----------------------------------------------------------------------

@@ -1,0 +1,5 @@
+
+The retinoblastoma gene, the prototype member of a family of so-called anti-oncogenes that protect against certain types of cancer, can suppress growth of prostate cancer cells, UC San Diego researchers reported in Science last week. 
+The gene had previously been reported to have the same effect in retinoblastoma -- a rare tumor of the eye -- breast cancer, bone cancer and small-cell lung cancer. 
+The gene's effectiveness in controlling growth of cultured prostate tumor cells suggests that it and related genes play a major role in protecting humans from cancer. Prostate cancer is the most common cancer in men. The discovery "gives us insight into genetic events related to prostate cancer, of which we know very little," said UCSD molecular biologist Robert Bookstein, who authored the report along with Wen-Hwa Lee and their colleagues. 
+The ability of the RB gene to suppress several types of tumor growth suggests that each of the 100 types of cancer may have a gene equivalent to the RB gene that protects against it. Researchers hope eventually to be able to insert the RB gene into tumors to halt their growth. 

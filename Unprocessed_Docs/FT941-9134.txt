@@ -1,0 +1,68 @@
+ --------------------------------------
+UK --------------------------------------
+Argyll                        44,26
+Armitage Bros                    28
+BA                               25
+Baring Tribune Trust             27
+Birmingham City FC               26
+Bourne End Props                 27
+British Steel                     1
+Burlington                       27
+Butte Mining                     27
+Conrad Ritblat                   26
+Fairey                           27
+Glaxo                            44
+Hanson                           25
+Hartstone                        28
+Howard Holdings                  28
+Inoco                            28
+Kwik-Fit                         28
+Leyland Daf Vans                 28
+Lofs                             27
+Mersey Docks                     28
+Midland Independent              26
+Mithras Inv Tst                  26
+Pilkington                    27,24
+Ramus                            26
+Saatchi & Saatchi                26
+Speyhawk                         26
+St Modwen Properties             28
+Stanelco                         27
+Symonds Engineering              20
+TR Pacific Inv Trust             27
+Tiphook                       26,25
+Union Discount                   27
+Whitchurch                       28
+Xenova                           26 --------------------------------------
+Overseas --------------------------------------
+Bangkok Land                     32
+Blockbuster                      32
+Boise Cascade                    32
+Canal Plus                       30
+Chubb                            32
+Ciba-Geigy                       30
+Citicorp                         30
+Elf                              30
+Generale des Eaux                30
+Grupo Modelo                     32
+Huhtamaki                        30
+IBM                              32
+KOP                              30
+MacLean Hunter                   32
+Microsoft                        31
+Northwest Air                    31
+Paramount                  32,25,24
+Petrogal                         31
+Pharma Vision 2000               30
+Philips                          30
+Rhone Poulenc Aust               32
+Rogers Comms                     32
+SSB                              31
+Sip                              30
+Societe Generale                 30
+Standard Bank In'vst             31
+The Equitable                    32
+The Limited                      31
+Viacom                     32,25,24
+Westfield Holdings               31
+Zenith                           31 --------------------------------------

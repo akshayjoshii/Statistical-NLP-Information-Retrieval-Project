@@ -1,0 +1,29 @@
+
+A fax bureau says that Mercury, the UK's second-largest telecommunications
+carrier, overcharged it by up to Pounds 100,000 in 12 months by transmitting
+its faxes too slowly. The bureau is preparing a formal complaint to Oftel,
+the industry watchdog.
+Comwave, the UK subsidiary of Swiss-based company Comwave Communications,
+said network providers do not have to comply with regulatory standards while
+manufacturers' equipment must pass stringent standards before it can be
+connected to the network.
+Oftel agreed this week that public telecommunications operators were not
+obliged to guarantee that fax calls would be successful or completed at any
+particular speed.
+Comwave said that faxes sent on Mercury lines took an average of 18 per cent
+more time than faxes on British Telecommunications lines. It warned that
+other companies using Mercury could unwittingly be paying too much for fax
+transmission. Comwave has switched to another network operator for its fax
+business.
+It claims to be the first company in the UK to have established a global fax
+broadcast service. The service is used by customers such as McGraw Hill, the
+US publisher, Swiss Bank and British Alcan to distribute time-critical
+information.
+Last year Comwave noticed that faxes sent on some of its 50 Mercury lines
+were taking longer than they should.
+The cause of the problem, which Mercury does not deny, was a mismatch
+between Comwave's fax machines and a piece of Mercury equipment which
+essentially persuaded the machine that it was transmitting over a
+poor-quality line and dropped the transmission speed accordingly.
+Mercury, while not admitting liability, has agreed to credit Comwave with
+Pounds 20,000.

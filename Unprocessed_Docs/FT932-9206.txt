@@ -1,0 +1,17 @@
+
+INTEL has filed a complaint with the US International Trade Commission
+against a Taiwanese personal computer manufacturer in a move to try to block
+imports of computers that contain 'clones' of its microprocessor chips.
+The action is the latest in a Intel's campaign of litigation against
+Advanced Micro Devices and Cyrix, two US chip companies that produce their
+own versions of Intel's top-selling chips.
+The ITC complaint alleges that Twinhead, a Taiwanese maker of notebook
+computers, is selling products in the US that infringe an Intel patent.
+Intel has related patent infringement cases pending in US courts against
+both AMD and Cyrix.
+The trade action against a competitors' customer follows a decision in the
+Cyrix patent case, in which the court refused to grant Cyrix an injunction
+preventing Intel from filing a suit against Cyrix customers. AMD said it
+believed its customers were protected from infringing Intel patents by a
+cross-licensing agreement between the two companies. That agreement is,
+however, the subject of separate litigation.

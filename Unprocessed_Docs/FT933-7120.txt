@@ -1,0 +1,57 @@
+
+Scientists at International Business Machines' Adstar data storage division
+in San Jose, California, have achieved a breakthrough that is expected to
+increase the amount of data that can be stored on a computer disc drive by a
+factor of about 30 by the end of the decade.
+The Adstar scientists predict their new method of producing a phenomenon
+called 'giant magneto-resistance' will make it possible to store up to 10bn
+bits of information per square inch of the surface of a computer disc. This
+is roughly equivalent to storing all of the text of 10,000 300-page novels
+on a double-sided, 3.5inch hard disc drive.
+Magneto-resistance is a change in the electrical resistance of a material
+when it is in the presence of a magnetic field.
+IBM has pioneered the use of this phenomenon in data storage systems. Data
+is stored on computer disc in the form of minute magnetised spots. When a
+magneto-resistive sensor or 'head' skims over the surface of the rotating
+disc it passes through the tiny magnetic fields produced by these dots and
+its electrical resistance is changed, producing a signal that 'reads' the
+bits of data stored on the disc.
+However, as the density of data stored on computer discs increases, the
+magnetic spots become smaller and smaller and it becomes more difficult to
+detect their magnetic fields.
+The giant magneto-resistive effect represents a potential solution to this
+problem. It produces an electrical signal more than five times stronger than
+that produced by heads based on conventional magneto-resistive technology.
+Until now, laboratory demonstrations of giant magneto-resistance have
+required exotic materials, very low temperatures, or complex processes.
+However, the IBM researchers have designed a giant magneto-resistive sensor
+that is relatively simple to make. It is based upon a stack of very thin
+layers of magnetic (nickel-iron alloy) and non-magnetic (silver) materials.
+Fabricated using standard semiconductor production techniques each layer of
+material is only about two billionths of a meter thick.
+The structure is then annealed in a furnace to align the magnetic poles of
+adjacent layers in opposite directions. When the structure is placed in a
+magnetic field, all of the magnetic layers align in the same direction,
+producing a 'giant' signal.
+Adstar now plans to move the technology into its development laboratories,
+to make prototype disc drive heads capable of reading data stored on a disc.
+The next step will be to optimise the materials and processes for mass
+production. The technology is expected to appear in products in about three
+years.
+'There should be no fundamental problems in transferring the technology from
+the laboratory to manufacturing,' says Kevin Coffey, one of the group of
+Adstar scientists that has worked on the project.
+IBM has patent applications pending on the structure and the process for
+producing its giant magneto-resistive sensors.
+An unusual aspect of the giant magneto-resisitive sensor development is that
+it was conducted within the IBM product group, rather than at the company's
+research laboratories.
+The research was conducted as part of an 'IBM Fellow' programme, under the
+leadership of Kent Howard, one of IBM's leading scientists who was made an
+IBM Fellow three years ago. The programme gives IBM's top scientists great
+latitude to pursue their research interests and work directly with product
+groups.
+For computer users, the development promises higher density and lower cost
+data storage. This is becoming increasingly important with the advent of
+multi-media computing requiring storage of large quantities of data
+including video, voice and graphics as well as text.

@@ -1,0 +1,116 @@
+
+With all the communications equipment on the market today, from carphones to
+satellite telex machines, it may seem curious that up to 75 per cent of
+calls never get through to the right person. Instead the frustrated caller
+is bombarded with the continuous ringing or engaged tone or ends up leaving
+a message that may never be answered.
+In the US, but not widely yet in Europe, a technology is being used which
+helps to eliminate this problem - voice messaging or voice mail, where
+recorded messages can be left on a central recording device to be picked up
+the recipient.
+Nigel Southon, general manager of voice messaging for British Telecom in the
+UK, equates voice messaging to a spoken memo - a way of leaving messages
+without sticking numerous bits of paper on someone's desk. 'It's for closed
+user groups in medium-sized or large companies who want to replace paper
+with voice. My paperwork has gone down by between a third to a half by using
+it,' he says.
+Several surveys carried out by companies in the US demonstrate the cost
+advantages of voice messaging, says Laura Macias, market development manager
+with Octel, a US voice messaging equipment manufacturer. She cites the case
+of General Electric which concluded that the company could save Dollars
+1,100 per year for each of its 60,000 employees by using voice messaging.
+'Many companies experience payback on equipment in less than a year.'
+One company that has pioneered the use of voice messaging, both in the US
+and Europe, is 3M, the materials group.
+Malcolm Wollaston, telecommunications manager for Europe, explains that in
+the UK 50 sales staff in the abrasives technology group were the first to
+use voice messaging, but now there are 400 3M users in the UK and this
+figure could soon rise to 1,000. In the US 12,000 3M employees already use
+voice messaging.
+As well as improving internal communications, 3M sales people give clients
+their voice messaging numbers and personal identification number along with
+their ordinary phone numbers. By phoning the number and keying in the Pin on
+the phone touchpad, the client is prompted to leave a message requesting
+information, giving an order or demanding help. This information is
+digitised and stored on a computer hard disc.
+Wollaston emphasises the need for proper training for those with mailboxes,
+not just in the technology but in how to get the best business advantage out
+of the system. For example, sales staff are told that they must phone in to
+collect their messages - which are automatically played back to them - every
+two hours. This way customers can be confident that they will get a swift
+response to inquiries.
+For Wollaston, voice messaging is only one way to maintain communications
+with people on the road. As such competes directly with cellular phones and
+radiopagers, and he has calculated the comparative costs of the three.
+Despite the plummeting costs of cellular radio hardware, Wollaston estimates
+that the running costs for each phone user are about Pounds 700 a year,
+taking initial purchase, subscription charges and calls into consideration.
+Depending on the geographical area covered, radiopagers can cost between
+Pounds 200 and Pounds 700 to run as well. Voice messaging services cost 3M
+about Pounds 360 per person. Wollaston cites further advantages:
+A single bill is sent to the company - with carphones you get a bill for
+each phone.
+Management statistics can be compiled much more easily as a result.
+The number given can be a toll-free number if required, so there is no
+expense to the caller. This means that company sales people, say, can avoid
+the high call charges imposed by many hotels.
+However, Wollaston acknowledges that different communications means are
+appropriate for different users in different situations. Voice messaging is
+most useful where people need to communicate specific information, or where
+managers want to send out a single message to a number of employees (the
+message can be duplicated electronically). And if the message needs to be
+sent on from one person's mailbox to another, that can be done by pressing a
+few buttons.
+Anybody who has phoned a business in the US to be greeted by a recorded
+message has experienced the simplest manifestation of voice messaging: that
+of a corporate answering machine where unanswered phone calls via the office
+telephone system are routed to the voice messaging system.
+Southon reports increasing interest from companies whose staff are 'site
+mobile' - managers in retail stores, hotels or restaurants who are rarely in
+their offices.
+Voice messaging is also proving useful for companies which operate across
+international boundaries and time zones. Glaxo, Britain's largest
+pharmaceutical company, for example, uses voice messaging to enable
+employees in its subsidiary offices in the Mediterranean and Middle East to
+call into the UK and leave messages outside the traditional UK working
+hours. Voice messaging systems can also store messages and transmit them
+when off-peak phone rates are in operation.
+For small organisations such as the Technology Broker, a company with fewer
+than 10 employees who flit between the two main offices in California and
+London, voice messaging is one of the few satisfactory ways of doing
+business.
+Annie Brooking, managing director of the company, explains that she rents a
+mailbox on an American-based service where clients can leave messages for
+her. Then she rents further mailboxes for each of her larger clients so that
+she can leave messages for them. 'I have one client who I sometimes won't
+see for six months. But I speak to him every day,' she says.
+For smaller companies, renting voice mailboxes from a service provider is
+the only option. Larger companies can opt to rent the service or buy their
+own voice messaging hardware to install alongside their corporate telephone
+exchange. In the UK 3M rents its service from British Telecom but is
+considering moving to an in-house machine to reduce costs. 'In the US it
+costs about Dollars 4 per user per month on an in-house system,' reports
+Wollaston.
+In the US large companies often opt to use a combination of the two, buying
+equipment for their biggest offices and renting bureau services for their
+smaller regional offices.
+But in Europe it is only recently, with the liberalisation of
+telecommunications, the falling costs of hardware and the cultural
+acceptance of recorded messages that businesses have begun to accept voice
+messaging. European business exchange manufacturers such as Ericsson, GPT
+and Siemens are now set to compete in the voice messaging market with US
+manufacturers such as Octel, AT&T, Voice Mail Systems and Northern Telecom.
+One factor which may encourage further growth is an agreement of standards
+to enable voice messaging equipment from one maker to communicate with that
+from another.
+But although US companies took to voice messaging like ducks to water, they
+are only now realising some of the drawbacks. In the US hackers have begun
+to target voice messaging networks, some to gain commercial advantage.
+More sinister, says Adam Greenberg, editor of the voice processing
+newsletter of Probe Research, the US consultancy based in Cedar Knolls, New
+Jersey, which specialises in voice messaging, is the infiltration of company
+messaging systems by drug dealers.
+They set up their own mailboxes, with private Pin numbers, where they leave
+details of drug availability and prices. Frequently they use networks with
+toll-free numbers - so the company not only unwittingly promotes the sale of
+drugs, but pays for the privilege as well.

@@ -1,0 +1,12 @@
+
+A massive electronic network linking more than 60,000 computers remains vulnerable to potentially crippling attack by computer "viruses," the General Accounting Office reported Thursday. 
+The GAO, an investigative arm of Congress, said the White House science adviser should oversee efforts to help protect the network, Internet, from sabotage. 
+It said lax security procedures on Internet contributed to the severity of problems that resulted when a software virus "infected" the system last November, crippling thousands of computers. 
+Internet, the main computer network used by the U.S. research community, comprises more than 500 national, regional and local networks nationwide and overseas. Two of the largest component networks are sponsored by the Pentagon's Defense Advanced Research Projects Agency and the National Science Foundation. 
+The GAO report was released at a hearing of the House Energy and Commerce subcommittee on telecommunications and finance. 
+Jack L. Brock Jr., director of the GAO's government information and financial management division, said that since the virus attack last fall, security has been strengthened on many computers connected to Internet. However, "we still feel that the lack of central control (over security) . . . remains a problem," he added. 
+Computer viruses are usually small strings of code that programmers can use to infiltrate a computer's software and replicate a procedure thousands of times, causing computer systems to "crash." In some cases the code can destroy computer data. 
+The GAO report noted that currently "there is no lead agency or organization responsible for Internet-wide management. Responsibility for computer security rests largely with the host sites that own and operate the computers." 
+'Interagency Group' 
+To help ensure needed security improvements, the GAO recommended that the President's science adviser, through the White House Office of Science and Technology Policy, "coordinate the establishment of an interagency group . . . to serve as the Internet security focal point." 
+It said this group should provide Internet-wide security policy, direction and coordination; support continuing efforts to enhance Internet security, and become an integral part of the structure that emerges to manage a high-speed National Research Network planned for the 1990s. 

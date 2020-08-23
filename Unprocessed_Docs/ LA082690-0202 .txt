@@ -1,0 +1,49 @@
+
+Residential building permits for California, 1982-1989. 
+Year 
+Total 
+Single Family 
+Multifamily 
+Rank by 
+State 
+1989 
+237,279 
+162,140 
+75,139 
+1 
+1988 
+255,559 
+162,167 
+93,392 
+1 
+1987 
+253,171 
+136,128 
+117,043 
+1 
+1986 
+314,1569 
+145,569 
+168,000 
+1 
+1985 
+272,317 
+114,202 
+158,115 
+1 
+1984 
+224,845 
+112,839 
+112,006 
+1 
+1983 
+172,569 
+102,509 
+70,060 
+3 
+1982 
+85,656 
+51,160 
+34,496 
+4 
+SOURCE: Bureau of the Census, Construction Industry Research Board 

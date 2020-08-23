@@ -1,0 +1,5 @@
+
+A DIY computer virus kit which is relatively easy to obtain is threatening
+computer safety, Sophos, an Oxfordshire-based data security firm said.
+Anyone with basic skills can now write rogue programmes to sabotage computer
+systems.

@@ -1,0 +1,13 @@
+
+An inert fluid which is used as a dressing to treat burns is now being used
+in the electronics industry to prevent the latest processor chips from
+over-heating.
+As consumers demand increasing power packed into smaller packages - from
+laptop PCs to cameras - many microprocessors have had difficulty working at
+their full capacity without overheating. Oasis has been developed by Aavid,
+of Laconia, New Hampshire, to dissipate the heat.
+Oasis incorporates a fluid developed by 3M which boils at between 56'C and
+58'C and is intended for use where there is a minimal amount of space above
+the microprocessor. As the liquid boils it vaporises and then is carried
+away to a condenser where it turns back into liquid.
+Aavid: US, 603 528 3400.

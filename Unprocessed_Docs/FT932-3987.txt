@@ -1,0 +1,16 @@
+
+The magnetic strip which appears on credit and debit cards has proven, in
+many cases, to be woefully insecure, with the data easy to copy. Now
+academics at Keele University, with industrial help from three companies,
+have developed a security strip which fraudsters should find almost
+impossible to tamper with.
+The magnetic medium is sputtered in tiny drops onto the surface - paper,
+metal or plastic - so it is impossible to peel off, unlike ordinary magnetic
+strips. And the data held in the medium is encoded to prevent copying.
+Massvision, which is marketing the strip and associated equipment, can write
+instructions on to the strip so that only one other specific machine can
+write on to that surface. This would mean that only the company issuing the
+cheques, tickets, credit cards or holograms would be able to write on the
+strip, preventing copying.
+The genuine items could be easily verified at the retail outlet by using the
+reader. Massvision: UK, tel: 021 708 0041.

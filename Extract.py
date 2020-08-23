@@ -10,6 +10,7 @@ nltk.download('stopwords')
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from bs4 import BeautifulSoup as bs
+from regex_tokenize import RegexTokenizer
 
 class Extract:
     
@@ -19,8 +20,8 @@ class Extract:
         self.token_rule = dict.fromkeys(i for i in range(sys.maxunicode) if unicodedata.category(chr(i)).startswith('P'))
         self.extension = ".txt"
         self.path = "Extracted Docs"
+        self.path_unprocessed = "Unprocessed_Docs"
         self.delete_list = ["<top>", "</top>", "<desc> Description:", "<num> Number: "]
-
 
     def retrieveDocumentEvidences(self, xmlfile):
         xml_content = []
@@ -43,11 +44,16 @@ class Extract:
                 f = open(os.path.join(self.path, (tag_contents[i].text +self.extension)), "w+")
                 raw_file_content = tag_contents[i+1].text
                 # Pre-processing raw text before tokenizing to preven't corruption/elimination of words such as 'can't' or 'english-spoken'
-                processed_file_content = raw_file_content.translate(self.token_rule)
-                tokens = word_tokenize(processed_file_content)
-                tokens = [word.lower() for word in tokens]
+                # processed_file_content = raw_file_content.translate(self.token_rule)
+                # tokens = word_tokenize(processed_file_content)
+                # tokens = [word.lower() for word in tokens]
+                obj = RegexTokenizer()
+                tokens = obj.get_tokens(raw_file_content)
                 #tokens_without_sw = [word.lower() for word in tokens if not word in self.stop_words]
                 f.write(" ".join(tokens))
+                f.close
+                f = open(os.path.join(self.path_unprocessed, (tag_contents[i].text + self.extension)), "w+")
+                f.write(raw_file_content)
                 f.close
         print("\n[INFO] Document evidence parsing complete")
         print(f"\nDocuments saved in directory: {self.path}")
@@ -66,9 +72,11 @@ class Extract:
         with open(outtxt, "w+") as oup:
             for line in processed_queries:
                 if line.strip():
-                    line = line.translate(self.token_rule)
-                    line = word_tokenize(line.lower())
-                    oup.write(" ".join(line))
+                    obj = RegexTokenizer()
+                    tokens = obj.get_tokens(line)
+                    # line = line.translate(self.token_rule)
+                    # line = word_tokenize(line.lower())
+                    oup.write(" ".join(tokens))
                     oup.write("\n")
         oup.close 
         print("\n[INFO] Parsing Test Questions file complete!")

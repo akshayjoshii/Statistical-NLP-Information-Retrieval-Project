@@ -1,0 +1,54 @@
+
+MICROFILM still has a place in business but the emergence of computer-based
+document processing systems means its role will be confined to long-term
+archiving.
+This is the view of Kodak, which builds both types of document storage
+system. Its view is backed by consultants and suppliers of systems based on
+optical disc storage.
+'The computer-output microfilm business is growing by five per cent a year,
+but this is mainly from existing users expanding their systems rather than
+from new users,' says Mr Colin Cooke, a manager in Kodak's UK Office Imaging
+operation.
+'Microfilm is best if the application is truly archival, with very low
+retrieval demands. Here it is very cheap and lasts 100 years or more without
+deteriorating. In addition, so far it is the only alternative to the
+original document that has been accepted in a court.'
+Mr Cooke says the insurance industry is a typical user of microfilm, because
+it needs to keep documents such as those relating to life insurance for very
+many years.
+At the other end of the scale is magnetic storage associated with computers.
+Magnetic tape has been used for archiving but the quality of the storage can
+be at risk after seven or eight years. Access is far from instant: tapes
+have to be retrieved from a store and run through from the start until the
+required records are found.
+Magnetic discs offer virtually instant access but at high cost and, as with
+tape, the quality deteriorates. Colin Cooke says magnetic disc systems cost
+seven times more than optical discs systems in terms of the storage
+equipment alone.
+Optical discs are a compromise between microfilm and magnetic discs.
+Retrieval times are slow by computing standards, although documents are
+nonetheless brought to the screen in five to 20 seconds, depending on
+factors such as the number of documents on a disc and the number of discs
+and drives in a juke box.
+The life of optical discs is put at between 30 and 50 years, although they
+have not been around long enough for this to be proved in live use. Their
+long life, compared with that of magnetic discs, is not least due to the
+fact that the unit which writes and reads data to and from the disc uses a
+laser beam and therefore never touches the disc surface. The original
+optical discs could only be recorded on once but recent years have seen the
+emergence of discs on which data can be erased or overwritten.
+There are mixed views on whether the benefits of this advance. If the data
+can be erased these optical disc systems could be considered as rivals to
+traditional magnetic discs, with massive capacity in a smaller box and at
+far less cost. Their disadvantage here is their retrieval times, w hich are
+far too slow for every-day data processing.
+Colin Cooke at Kodak is among those who believe the very fact that the
+original optical disc systems recorded data only once was one of their main
+benefits. 'One of their attractions lies in their key feature of providing
+permanent, stable storage,' he says. -----------------------------------------------------------------------              Microfilm, optical and magnetic disc systems -----------------------------------------------------------------------             Computer-output         Optical            Magnetic             microfilm               disc               disc -----------------------------------------------------------------------
+CAPITAL      Very low,               High (full         High
+COST         (bureau processing).    system, including  (full             Medium,                 workflow           system)             (in-house processing).  software)
+RETRIEVAL    Very slow               Fast               Very fast
+TIME         (minutes,               (3 to 25           (within 3             at least)               seconds)           seconds)
+STABILITY    Very long               Medium             Short             (100 years)             (30 to 50 years)   (7 to 12 years)
+APPLICATION  Long archiving,         Medium             Short-term             little or no access     archiving,         storage,                                     daily access       instant access -----------------------------------------------------------------------

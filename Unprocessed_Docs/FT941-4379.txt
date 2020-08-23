@@ -1,0 +1,31 @@
+
+Sir, As managing director of a commercial Internet access provider, I was
+interested and concerned by Louise Kehoe's piece on Internet security
+(Technology: 'Crime on the line', March 3).
+It is time people heard a commercial Internet provider's view of security,
+as there has been no small measure of ambulance-chasing since the advisory
+on Internet security was issued on February 4 by the Computer Emergency
+Response Team, the US government-sponsored group responsible for Internet
+security.
+The 'Trojan Horse' program described in that advisory is nothing new. It is
+one of the oldest hacker tricks in the book, and has happened at many other
+non-Internet sites. Existing measures and technology for implementing
+security on the Internet are sufficient and economic: all that is needed is
+education, and careful and thorough deployment.
+The 'tens of thousands' of Internet accounts that have been broken -
+academic or otherwise - would constitute just a tiny fraction of the
+millions of Internet users, and the CERT action will meet their problems.
+The message to emerge from all this is simple: the majority of Internet
+providers are responsible and take adequate security measures. Such
+providers are as responsible as phone companies in dealing with security
+issues, and security practices at commercial sites are in general much more
+rigorous than at academic or hobbyist sites. These commercial-quality
+systems have not, to our knowledge, been affected in the recent scare.
+To liken these security measures to burglar alarms is not analogous. Alarms
+go off after burglary has been committed - Internet gateways are intended to
+keep unwanted access out, as much as for facilitating data exchange with
+other networks, and IBM and other leading corporate users of the commercial
+Internet appreciate this fact.
+Peter Dawe,
+IP Exchange,
+Cambridge CB4 4WA

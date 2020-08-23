@@ -1,0 +1,43 @@
+
+THE US Commerce Department yesterday announced a liberalisation of export
+restrictions on a wide range of computer equipments sold to former communist
+countries and to China.
+The changes cover all computers with performance up to 67m theoretical
+operations per second (67 MTOPS). This includes the latest PCs powered by
+Intel's new Pentium microprocessor, many computer work-stations including
+most of those produced by Sun Microsystems, and much of IBM's product line,
+excluding high-performance mainframe computers and work-stations.
+For US computer manufacturers, the loosening of export regulations will much
+reduce delays and paperwork in export sales to countries such as China and
+those of eastern Europe.
+This development provides 'significant interim relief' from export
+restrictions, said Intel, leading manufacturer of microprocessors used in
+PCs.
+IBM called the changes a 'positive move in light of the high potential
+demand for our products, especially in China'.
+However, the Clinton administration is already considering an even broader
+liberalisation 'in a very short period of time', said Mr Steven Goldman,
+head of the Commerce Department's Office of Foreign Availability.
+He said higher-performance computers may soon be widely available from
+countries with no export restrictions. His office cannot make
+recommendations based on prospective availability, but the administration
+may take that into consideration and act soon on more powerful computer
+equipment.
+The US will also seek removal of the equivalent export licensing
+requirements by allies in the Co-ordinating Committee on Multilateral Export
+Controls (Cocom). US allies are usually much more prone to liberalisation so
+Cocom is unlikely to object.
+Mr Barry Carter, acting under-secretary of commerce, said the liberalisation
+'will significantly improve marketing opportunities for US computer
+companies, making them more competitive abroad without impairing US national
+security'.
+Licences will no longer be required for sales of computers to Russia,
+Poland, the Czech Republic and Slovakia, as well as China and other
+communist countries. The US will continue controls, for foreign policy
+reasons, to Iraq and Iran, among others.
+The Commerce Department acted on a claim from the American Electronics
+Association that comparable computers could be obtained from countries
+without export controls.
+The AEA wanted decontrol of much more sophisticated equipment with
+capabilities up to 210 MTOPS, including high-performance mainframe computers
+and some supercomputers.
