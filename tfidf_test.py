@@ -87,25 +87,9 @@ def inverse_document_frequency(term, N):
     else:
         return 0.0
 
-def do_search(document_filenames, N):
-    #document_filenames = populateDocumentEvidenceList("test")
-    query = tokenize(input("Search query >> "))
-    if query == []:
-        sys.exit()
-    relevant_document_ids = [set(postings[term].keys()) for term in query]
-    if not relevant_document_ids:
-        print("No documents matched all query terms.")
-    else:
-        scores = sorted([(id,similarity(query, id, N)) for id in relevant_document_ids], 
-                    key=lambda x: x[1], reverse=True)[:100]
-        print("Score: filename")
-        for (id, score) in scores:
-            print(str(score)+": "+document_filenames[id])
-
-"""
 def intersection(sets):
     return reduce(set.intersection, [s for s in sets])
-"""
+
 
 def similarity(query,id, N):
     similarity = 0.0
@@ -115,6 +99,20 @@ def similarity(query,id, N):
     similarity = similarity / length[id]
     return similarity
 
+
+def do_search(document_filenames, N):
+    #document_filenames = populateDocumentEvidenceList("test")
+    query = tokenize(input("Search query >> "))
+    if query == []:
+        sys.exit()
+    relevant_document_ids = intersection([set(postings[term].keys()) for term in query])
+    scores = sorted([(id,similarity(query, id, N)) for id in relevant_document_ids], 
+                    key=lambda x: x[1], reverse=True)[:1000]
+    print("Score: filename")
+    for (id, score) in scores:
+        print(str(score)+": "+document_filenames[id])
+
+
 if __name__ == "__main__":
     path = "Extracted Docs"
     document_filenames = populateDocumentEvidenceList(path)
@@ -122,5 +120,6 @@ if __name__ == "__main__":
     initialize_terms_and_postings(document_filenames)
     initialize_document_frequencies()
     initialize_lengths(document_filenames)
+    print("\n[INFO] Please be patient, building a massive postings list!")
     while True:
         do_search(document_filenames, N)
