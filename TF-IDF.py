@@ -1,3 +1,5 @@
+__author__ = "Akshay Joshi, Ankit Agrawal"
+
 import math
 import sys
 import os
@@ -8,16 +10,12 @@ from functools import reduce
 from bm25_ranking import BM25Rank
 from regex_tokenize import RegexTokenizer
 
-#path = os.path.join("test")
-#document_filenames = populateDocumentEvidenceList(path)
-#print(document_filenames)
+
 dictionary = set()
 postings = defaultdict(dict)
 document_frequency = defaultdict(int)
 length = defaultdict(float)
 
-# The list of characters (mostly, punctuation) we want to strip out of
-# terms in the document.
 characters = " .,!#$%^&*();:\n\t\\\"?!{}[]<>``'`"
 
 def populateDocumentEvidenceList(directory):
@@ -70,7 +68,7 @@ def initialize_lengths(document_filenames):
 
 def imp(term,id, N):
     if id in postings[term]:
-        return postings[term][id]*inverse_document_frequency(term, N) * 1.2
+        return postings[term][id]*inverse_document_frequency(term, N)
     else:
         return 0.0
 
@@ -160,7 +158,6 @@ def do_search(document_filenames, N, patterns):
             obj = RegexTokenizer()
             query2 = obj.get_tokens(query)
             j += 1
-            #query = tokenize(input("Search query >> "))
             relevant_document_ids = intersection([set(postings[term].keys()) for term in query2])
             scores = sorted([(id,similarity(query2, id, N)) for id in relevant_document_ids], key=lambda x: x[1],
                             reverse=True)[:50]
@@ -177,14 +174,10 @@ def do_search(document_filenames, N, patterns):
             precise_docs_bm25 = get_precision(top50_docs, query_to_pattern[query], precise_docs_bm25)
             rank_for_queries = get_precision_sentences(top50_sents, query_to_pattern[query], rank_for_queries)
 
-            #print("Score: filename")
             for (id, score) in scores:
                 result = precisionAtK(document_filenames[id], query_to_pattern[query])
                 if result == True:
                     precise_docs.append(1)
-                #print(str(score)+": "+document_filenames[id])
-            #print(len(doc_list))
-            #print(doc_list)
         mean_precision_results_list.append(len(precise_docs) / 50)
         mean_precision_results_list_bm25.append(len(precise_docs_bm25) / 50)
     mean_precision_results = (sum(mean_precision_results_list) / 100)
@@ -199,6 +192,7 @@ def do_search(document_filenames, N, patterns):
     print(f"MRR for BM25 is: {final_mrr}")
 
 
+# Driver code 
 if __name__ == "__main__":
     document_evidence_path = "Extracted Docs"
     # document_evidence_path = "test"
