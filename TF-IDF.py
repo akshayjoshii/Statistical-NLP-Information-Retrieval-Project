@@ -5,6 +5,7 @@ import re
 import numpy as np
 from collections import defaultdict
 from functools import reduce
+from bm25_ranking import BM25Rank
 
 #path = os.path.join("test")
 #document_filenames = populateDocumentEvidenceList(path)
@@ -85,7 +86,7 @@ def similarity(query,id, N):
     similarity = 0.0
     for term in query:
         if term in dictionary:
-            similarity += inverse_document_frequency(term, N) * imp(term,id, N)
+            similarity += inverse_document_frequency(term, N) * imp(term, id, N)
     similarity = similarity / length[id]
     return similarity
 
@@ -99,7 +100,13 @@ def precisionAtK(document_filename, query_to_pattern_map):
                 return True
     input_document.close()
     return False
-        
+
+def precisionAtK_BM25_sent(sent, query_to_pattern_map):
+    for pattern in query_to_pattern_map:
+        result = bool(re.findall(pattern, sent, flags=re.IGNORECASE))
+        if result:
+            return True
+    return False
 
 def patternExtraction(path):
     patterns = {}
@@ -119,19 +126,54 @@ def patternExtraction(path):
     return patterns
 
 
+def get_precision(scores, patterns_query, precise_docs_bm25):
+    for (id, score) in scores:
+        result = precisionAtK(id, patterns_query)
+        if result == True:
+            precise_docs_bm25.append(1)
+    return precise_docs_bm25
+
+def get_precision_sentences(top50_sents, patterns_query, rank_for_queries):
+    i = 0
+    for sent in top50_sents:
+        i+=1
+        result = precisionAtK_BM25_sent(sent, patterns_query)
+        if result == True:
+            rank_for_queries.append(i)
+            break
+
+    return rank_for_queries
+
 def do_search(document_filenames, N, patterns):
     query_file = open("extracted_test_questions.txt", "r")
     mean_precision_results_list = []
+    mean_precision_results_list_bm25 = []
     query_to_pattern = {}
     j = 1
+    rank_for_queries = []
     for i, query in enumerate(query_file):
         precise_docs = []
+        precise_docs_bm25 = []
         if not (i % 2) == 0:
             query_to_pattern[query] = patterns[str(j)]
             j += 1
             #query = tokenize(input("Search query >> "))
             relevant_document_ids = intersection([set(postings[term].keys()) for term in query])
-            scores = sorted([(id,similarity(query, id, N)) for id in relevant_document_ids], key=lambda x: x[1], reverse=True)[:50]
+            scores = sorted([(id,similarity(query, id, N)) for id in relevant_document_ids], key=lambda x: x[1],
+                            reverse=True)[:50]
+            scores_bm25 = sorted([(id, similarity(query, id, N)) for id in relevant_document_ids], key=lambda x: x[1],
+                            reverse=True)[:1000]
+
+            top1000_filenames = []
+            for id, score in scores_bm25:
+                top1000_filenames.append(document_filenames[id])
+            obj = BM25Rank()
+            top50_docs = obj.get_doc_rank(query, top1000_filenames)
+            top50_sents = obj.get_sentence_rank(query, top50_docs)
+
+            precise_docs_bm25 = get_precision(top50_docs, query_to_pattern[query], precise_docs_bm25)
+            rank_for_queries = get_precision_sentences(top50_sents, query_to_pattern[query], rank_for_queries)
+
             #print("Score: filename")
             for (id, score) in scores:
                 result = precisionAtK(document_filenames[id], query_to_pattern[query])
@@ -141,9 +183,17 @@ def do_search(document_filenames, N, patterns):
             #print(len(doc_list))
             #print(doc_list)
         mean_precision_results_list.append(len(precise_docs) / 50)
+        mean_precision_results_list_bm25.append(len(precise_docs_bm25) / 50)
     mean_precision_results = (sum(mean_precision_results_list) / 100)
+    mean_precision_results_bm25 = (sum(mean_precision_results_list_bm25) / 100)
     print(f"The Mean Precicion @ 50 is: {mean_precision_results}")
-    query_file.close()   
+    print(f"The Mean Precicion @ 50 for BM25 is: {mean_precision_results_bm25}")
+    query_file.close()
+    mrr = 0
+    for rank in rank_for_queries:
+        mrr += float(1/rank)
+    final_mrr = float(mrr/100)
+    print(f"MRR for BM25 is: {final_mrr}")
 
 
 if __name__ == "__main__":
