@@ -1,3 +1,6 @@
+__author__ = "Ankit Agrawal"
+__email__ = "s8anagra@stud.uni-saarland.de"
+
 import nltk
 from rank_bm25 import BM25Okapi, BM25Plus
 from nltk.tokenize import word_tokenize

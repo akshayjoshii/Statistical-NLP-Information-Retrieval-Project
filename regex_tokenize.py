@@ -1,3 +1,7 @@
+__author__ = "Ankit Agrawal"
+__email__ = "s8anagra@stud.uni-saarland.de"
+
+
 import string
 import re
 
